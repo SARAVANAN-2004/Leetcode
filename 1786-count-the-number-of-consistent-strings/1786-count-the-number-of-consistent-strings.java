@@ -4,7 +4,6 @@ class Solution {
         for(char ch:allowed.toCharArray()){
             arr.add(ch);
         }
-        System.out.println(arr);
         int cnt = 0;
         for(String s:words){
             if(isvalid(arr,s)){
