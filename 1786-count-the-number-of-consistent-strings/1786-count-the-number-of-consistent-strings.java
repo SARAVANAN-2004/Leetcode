@@ -8,7 +8,6 @@ class Solution {
         int cnt = 0;
         for(String s:words){
             if(isvalid(arr,s)){
-                System.out.println(s);
                 cnt++;
             }
         }
