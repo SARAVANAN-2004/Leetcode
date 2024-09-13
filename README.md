@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0200-number-of-islands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0200-number-of-islands) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
