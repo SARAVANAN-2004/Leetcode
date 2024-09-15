@@ -1,14 +1,11 @@
 class Solution {
-        static String vowel = "aeiou";
-static Map<Character,Integer> char_map = new HashMap<>();
-static {
-    for(int i = 0; i < 5; i++){
-        char_map.put(vowel.charAt(i), (int)Math.pow(2, i));
-    }
-}
-
     public int findTheLongestSubstring(String s) {
-        
+        List<Integer> arr = new ArrayList<>();
+        String vowel = "aeiou";
+        Map<Character,Integer> char_map  = new  HashMap<>();
+        for(int i = 0;i<5;i++){
+            char_map.put(vowel.charAt(i),(int)Math.pow(2,i));
+        }
         Map<Integer,Integer> map = new HashMap<>();
         int sub = 0;
         int prexor = 0;
