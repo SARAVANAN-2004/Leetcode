@@ -6,7 +6,6 @@ class Solution {
         for(int i = 0;i<5;i++){
             char_map.put(vowel.charAt(i),(int)Math.pow(2,i));
         }
-        System.out.println(char_map);
         Map<Integer,Integer> map = new HashMap<>();
         int sub = 0;
         int prexor = 0;
