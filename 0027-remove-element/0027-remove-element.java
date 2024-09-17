@@ -12,6 +12,6 @@ class Solution {
                 l++;
             }
         }
-        return k;
+        return l;
     }
 }
