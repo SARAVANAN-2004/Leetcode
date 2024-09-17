@@ -21,11 +21,12 @@ class Solution {
                 ans.add(s);
             }
         }
-        String[] res = new String[ans.size()];
-        for(int i = 0;i < ans.size();i++){
-            res[i] = ans.get(i);
-        }
-        return res;
+        return ans.toArray(new String[0]);
+        // String[] res = new String[ans.size()];
+        // for(int i = 0;i < ans.size();i++){
+        //     res[i] = ans.get(i);
+        // }
+        // return res;
 
     }
 }
