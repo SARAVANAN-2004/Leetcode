@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0004-median-of-two-sorted-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0027-remove-element) |
+| [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0200-number-of-islands) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -101,10 +103,15 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0027-remove-element) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
