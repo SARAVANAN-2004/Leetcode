@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0200-number-of-islands) |
+| [0312-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0312-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0312-burst-balloons) |
 | [1250-longest-common-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
