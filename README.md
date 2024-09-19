@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0312-burst-balloons) |
 | [1250-longest-common-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Stack
@@ -102,6 +104,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Sorting
 |  |
@@ -118,4 +121,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
