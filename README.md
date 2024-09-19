@@ -10,6 +10,7 @@ A collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0200-number-of-islands) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Backtracking
@@ -82,6 +85,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Two Pointers
