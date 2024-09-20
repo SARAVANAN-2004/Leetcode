@@ -3,7 +3,7 @@ class Solution {
         String revstr = new StringBuilder(s).reverse().toString();
         String pattern = s + "*"+  revstr;
         int[] lps = kmpalgo(pattern);
-        System.out.println(Arrays.toString(lps));
+        // System.out.println(Arrays.toString(lps));
         int n = lps[pattern.length()-1];
         return new StringBuilder(s.substring(n)).reverse().toString()+s;
     }
