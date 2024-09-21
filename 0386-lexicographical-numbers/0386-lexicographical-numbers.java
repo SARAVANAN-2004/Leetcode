@@ -13,7 +13,11 @@ class Solution {
         ans.add(curr);
         for(int i = 0;i<=9;i++){
             int newCurr = (curr*10)+i;
+            if(newCurr <= limit){
             generate(ans,newCurr,limit);
+            }else{
+                break;
+            }
         }
     }
 }
