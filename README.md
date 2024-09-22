@@ -161,6 +161,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Tree
 |  |
 | ------- |
