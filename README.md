@@ -24,6 +24,7 @@ A collection of LeetCode questions
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2155-find-missing-observations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2155-find-missing-observations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2470-removing-stars-from-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2755-extra-characters-in-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0312-burst-balloons) |
 | [1250-longest-common-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [2755-extra-characters-in-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions
 | [0139-word-break](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Tree
 |  |
 | ------- |
