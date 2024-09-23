@@ -3,6 +3,7 @@ class Solution {
         Set<String> set = new HashSet<>(Arrays.asList(dictionary));
         int n = s.length();
         Integer[] dp = new Integer[n];
+        System.out.println(Arrays.toString(dp));
         return dfs(s,set,0,dp);
     }
     public int dfs(String s,Set<String> set,int start,Integer[] dp){
