@@ -1,20 +1,39 @@
+class obj{
+    int cnt;
+    boolean visited;
+    public obj(int cnt,boolean visited){
+        this.cnt = cnt;
+        this.visited = visited;
+    }
+}
+
 class Solution {
     public int longestConsecutive(int[] nums) {
-        if(nums.length==0) return 0;
-        Set<Integer> numSet = new HashSet<>();
-        for(int num: nums)
-            numSet.add(num);
-        
-        int longest = 0;
+        if(nums == null || nums.length==0) return 0;
+        // if(nums.length == 1){return 1;}
 
-        for(int num: nums) {
-            if(!numSet.contains(num-1)) {
-                int length = 0;
-                while(numSet.contains(length + num))
-                    length++;
-                longest = Math.max(longest, length);
-            }
+        Map<Integer,obj> map = new HashMap<>();
+        for(int i:nums){
+            map.put(i,new obj(0,false));
         }
-        return longest;
+        int ans = 0;
+        for(int i:nums){
+            
+            dfs(map,i,i);
+            
+            ans = Math.max(ans,map.get(i).cnt);
+        }
+        return ans;
+    }
+
+    public void dfs(Map<Integer,obj> map,int num,int curnum){
+        if(!map.containsKey(curnum) || map.get(curnum).visited){
+            return;
+        }
+        map.get(num).cnt += 1;
+        map.get(curnum).visited = true;
+        dfs(map,num,curnum-1);
+        dfs(map,num,curnum+1);
+
     }
 }
