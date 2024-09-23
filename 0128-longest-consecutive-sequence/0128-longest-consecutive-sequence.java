@@ -9,6 +9,7 @@ class obj{
 
 class Solution {
     public int longestConsecutive(int[] nums) {
+        if(nums.length==0) return 0;
         Map<Integer,obj> map = new HashMap<>();
         for(int i:nums){
             map.put(i,new obj(0,false));
