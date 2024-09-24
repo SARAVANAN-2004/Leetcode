@@ -15,7 +15,6 @@ class Solution {
                 i /= 10;
             }
         }
-        System.out.println(set+""+set2);
         for(int i :set){
             if(set2.contains(i)){
                 cnt  = Math.max(cnt,String.valueOf(i).length());
