@@ -3,7 +3,7 @@ class Solution {
         StringBuilder str = new StringBuilder(s);
         str.reverse();
         int[] lps = generatelps(s+"-"+str.toString());
-        System.out.println(Arrays.toString(lps));
+        // System.out.println(Arrays.toString(lps));
         return new StringBuilder(s.substring(lps[(2*s.length())])).reverse().toString() + s;
     }
     public int[] generatelps(String s){
