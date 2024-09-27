@@ -17,10 +17,10 @@ class Solution {
         int max = 0;
         for(int r = 0;r < row;r++){
             for(int c = 0;c <col;c++){
-                System.out.print(dp[r][c]+" ");
+                // System.out.print(dp[r][c]+" ");
                 max = Math.max(max,dp[r][c]);
             }
-            System.out.println();
+            // System.out.println();
         }
         return max+1;
     }
