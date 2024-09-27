@@ -17,10 +17,10 @@ class Solution {
             return dp[row][col];
         }
         if(s.charAt(row) == t.charAt(col)){
-            dp[row][col] = solve(dp,s,t,row+1,col+1) + solve(dp,s,t,row+1,col);
-        }else{
-            dp[row][col] = solve(dp,s,t,row+1,col);
+            return dp[row][col] = solve(dp,s,t,row+1,col+1) + solve(dp,s,t,row+1,col);
         }
-        return dp[row][col];
+        return dp[row][col] = solve(dp,s,t,row+1,col);
+        
+    
     }
 }
