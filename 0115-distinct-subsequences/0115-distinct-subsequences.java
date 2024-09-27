@@ -1,26 +1,20 @@
 class Solution {
     public int numDistinct(String s, String t) {
-        int[][] dp = new int[s.length()][t.length()];
+        int n = s.length();
+        int m = t.length();
+        int[][] dp = new int[n][m];
         for(int[] row : dp){
             Arrays.fill(row, -1);
         }
-        return solve(dp,s,t,s.length()-1,t.length()-1);
+        return solve(s, t, n-1, m-1, dp);
     }
-    int solve(int[][] dp,String s,String t,int row,int col){
-        if (col < 0){
-            return 1;
+    private int solve(String s, String t, int i, int j, int[][] dp){
+        if(j < 0) return 1;
+        if(i < 0) return 0;
+        if(dp[i][j] != -1) return dp[i][j];
+        if(s.charAt(i) == t.charAt(j)){
+            return dp[i][j] = solve(s, t, i-1, j-1, dp) + solve(s, t, i-1, j, dp);
         }
-        if(row < 0){
-            return 0;
-        }
-        if(dp[row][col] != -1){
-            return dp[row][col];
-        }
-        if(s.charAt(row) == t.charAt(col)){
-            dp[row][col] = solve(dp,s,t,row-1,col-1) + solve(dp,s,t,row-1,col);
-        }else{
-            dp[row][col] = solve(dp,s,t,row-1,col);
-        }
-        return dp[row][col];
+        return dp[i][j] = solve(s, t, i-1, j, dp);
     }
 }
