@@ -23,6 +23,7 @@ A collection of LeetCode questions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2155-find-missing-observations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2155-find-missing-observations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Binary Search
@@ -113,6 +115,7 @@ A collection of LeetCode questions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -214,14 +217,17 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Graph
 |  |
 | ------- |
