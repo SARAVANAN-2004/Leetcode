@@ -1,68 +1,54 @@
 class MyCircularDeque {
-    List<Integer> arr;
-    int size = 0;
-    int max_size;
+    private int head, tail, size, n;
+    private final int[] a;
     public MyCircularDeque(int k) {
-        this.arr = new ArrayList<>(k);
-        this.max_size = k;
+        a = new int[k];
+        n = a.length;
+        tail = 1;
     }
     
-    public boolean insertFront(int value) {
-        if(arr.size() >= max_size){
-            return false;
-        }
-        arr.add(0,value);
+    public boolean insertFront(int x) {
+        if (size == n) return false;
+        a[head = ++head % n] = x;
+        size++;
         return true;
     }
     
-    public boolean insertLast(int value) {
-        if(arr.size() >= max_size){
-            return false;
-        }
-        arr.add(arr.size(),value);
+    public boolean insertLast(int x) {
+        if (size == n) return false;
+        a[tail = (--tail + n) % n] = x;
+        size++;
         return true;
     }
     
     public boolean deleteFront() {
-        if(arr.size() <= 0){
-            return false;
-        }
-        arr.remove(0);
+        if (size == 0) return false;
+        head = (--head + n) % n;
+        size--;
         return true;
     }
     
     public boolean deleteLast() {
-        if(arr.size() <= 0){
-            return false;
-        }
-        arr.remove(arr.size()-1);
+        if (size == 0) return false;
+        tail = ++tail % n;
+        size--;
         return true;
     }
     
     public int getFront() {
-        if(arr.size() == 0){
-            return -1;
-        }
-        return arr.get(0);
+        return size == 0 ? -1 : a[head];
     }
     
     public int getRear() {
-        if(arr.size() == 0){
-            return -1;
-        }
-        return arr.get(arr.size()-1);
-        
+        return size == 0 ? -1 : a[tail];
     }
     
     public boolean isEmpty() {
-        return arr.isEmpty();
+        return size == 0;
     }
     
     public boolean isFull() {
-        if(arr.size() == max_size){
-            return true;
-        }
-        return false;
+        return size == a.length;
     }
 }
 
