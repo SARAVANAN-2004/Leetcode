@@ -107,6 +107,7 @@ A collection of LeetCode questions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0052-n-queens-ii) |
 ## Prefix Sum
 |  |
 | ------- |
