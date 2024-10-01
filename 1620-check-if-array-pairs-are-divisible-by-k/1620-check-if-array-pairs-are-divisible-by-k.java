@@ -1,26 +1,21 @@
 class Solution {
-    public boolean canArrange(int[] arr, int k) {
-        Map<Integer,Integer> map = new HashMap<>();
-        Set<Integer> set = new HashSet<>();
-        for(int i : arr){
+    public boolean canArrange(int[] num, int k) {
+        
+        int[] arr = new int[k];
+        for(int i : num){
             int remainder = (i % k + k) % k; 
-            map.put(remainder, map.getOrDefault(remainder, 0) + 1);
-            set.add(remainder);
-
+            arr[remainder]++;
         }
         // System.out.println(map);
-        for(int n:set){
+        for(int n = 0; n < k-1;n++){
 
             if(n == 0){
-                if(map.get(n) % 2 != 0){
+                if(arr[n] % 2 != 0){
                     return false;
                 }
             }
-            else if(!set.contains(k-n)){
-                return false;
-            }
             else{
-                if(!map.get(n).equals(map.get(k-n))){
+                if(n != k-n && arr[n] != arr[k-n]){
                     return false;
                 }
             }
