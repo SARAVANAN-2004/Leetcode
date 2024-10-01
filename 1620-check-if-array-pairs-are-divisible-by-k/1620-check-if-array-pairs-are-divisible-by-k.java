@@ -8,7 +8,7 @@ class Solution {
             set.add(remainder);
 
         }
-        System.out.println(map);
+        // System.out.println(map);
         for(int n:set){
 
             if(n == 0){
