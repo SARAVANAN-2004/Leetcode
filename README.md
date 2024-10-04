@@ -92,6 +92,7 @@ A collection of LeetCode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions
 | [0027-remove-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0189-rotate-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
