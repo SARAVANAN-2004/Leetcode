@@ -47,6 +47,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2470-removing-stars-from-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -232,6 +234,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
