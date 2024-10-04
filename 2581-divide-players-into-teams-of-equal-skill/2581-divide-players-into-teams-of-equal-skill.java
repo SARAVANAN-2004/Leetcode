@@ -5,6 +5,7 @@ class Solution {
         int l = 0, r = n -1;
         long sum = 0;
         int val = skill[0]+skill[n-1];
+        
         while(l < r){
             int newVal = skill[l]+skill[r];
             if(val!=newVal){
@@ -13,6 +14,8 @@ class Solution {
             sum += (skill[l]*skill[r]);
             l++;
             r--;
+        }
+        if(sum == 0){return -1;
         }
         return sum;
     }
