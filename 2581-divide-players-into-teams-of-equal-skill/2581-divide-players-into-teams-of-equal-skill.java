@@ -10,7 +10,7 @@ class Solution {
             if(val!=newVal){
                 return -1;
             }
-            sum = (sum)+(skill[l]*skill[r]);
+            sum += (skill[l]*skill[r]);
             l++;
             r--;
         }
