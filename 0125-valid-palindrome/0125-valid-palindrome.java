@@ -3,7 +3,7 @@ class Solution {
         
         s = s.replaceAll("[^a-zA-Z0-9]", "");
         int l = 0,r = s.length()-1;
-        System.out.println(s);
+        // System.out.println(s);
         return solve(s.trim().toLowerCase(),l,r);
     }
     public boolean solve(String s,int l,int r){
