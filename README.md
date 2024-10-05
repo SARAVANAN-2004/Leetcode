@@ -76,6 +76,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions
 | [0214-shortest-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 ## Design
 |  |
 | ------- |
