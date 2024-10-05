@@ -1,27 +1,16 @@
-class Solution {
+public class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int l = s1.length();
-        char[] ch1 = s1.toCharArray();
-        Arrays.sort(ch1);
-        Set<char[]> set = new HashSet<>();
-        set.add(ch1);
-        for(int i = 0;i< s2.length()-l+1;i++){
-            char[] ch2 = s2.substring(i,l+i).toCharArray();
-            Arrays.sort(ch2);
-            if(valid(ch1,ch2)){
+        s1 = sort(s1);
+        for (int i = 0; i <= s2.length() - s1.length(); i++) {
+            if (s1.equals(sort(s2.substring(i, i + s1.length()))))
                 return true;
-            }
-            // System.out.println(s2.substring(i,l+i));
         }
         return false;
     }
-    boolean valid(char[] arr1,char[] arr2){
-        for(int i = 0;i <arr1.length;i++){
-            if(arr1[i] != arr2[i]){
-                return false;
-            }
-        }
-        return true;
-    }
     
+    public String sort(String s) {
+        char[] t = s.toCharArray();
+        Arrays.sort(t);
+        return new String(t);
+    }
 }
