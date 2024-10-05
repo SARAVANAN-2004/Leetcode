@@ -26,7 +26,6 @@ class Solution {
                 rdir = -1;     
             }
             if( r <= 0){
-                
                 rdir = 1;
             }
            arr.get(r).add(i);
