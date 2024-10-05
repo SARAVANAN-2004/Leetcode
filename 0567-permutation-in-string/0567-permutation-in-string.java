@@ -1,5 +1,7 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
+        if (s1.length() > s2.length())
+            return false;
         int l = s1.length();
         int[] arr1 = new int[26];
         fill(arr1,s1);
