@@ -94,6 +94,7 @@ A collection of LeetCode questions
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0125-valid-palindrome) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0052-n-queens-ii) |
 ## Prefix Sum
@@ -156,6 +158,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
