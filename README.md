@@ -29,6 +29,7 @@ A collection of LeetCode questions
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0735-asteroid-collision) |
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
+| [1002-maximum-width-ramp](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1240-stone-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions
 | [0735-asteroid-collision](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Linked List
 |  |
 | ------- |
