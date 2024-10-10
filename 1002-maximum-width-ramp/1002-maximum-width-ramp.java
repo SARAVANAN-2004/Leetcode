@@ -1,21 +1,26 @@
 class Solution {
+
     public int maxWidthRamp(int[] nums) {
         int n = nums.length;
-        int[] indices = new int[n];
-        int maxWidth = 0;
+        Stack<Integer> indicesStack = new Stack<>();
 
-        // Step 1: Build an array of indices where nums[indices] are decreasing
-        int indexSize = 0; // This will act like a stack pointer for our indices array
+        // Fill the stack with indices in increasing order of their values
         for (int i = 0; i < n; i++) {
-            if (indexSize == 0 || nums[indices[indexSize - 1]] > nums[i]) {
-                indices[indexSize++] = i;
+            if (indicesStack.isEmpty() || nums[indicesStack.peek()] > nums[i]) {
+                indicesStack.push(i);
             }
         }
 
-        // Step 2: Traverse from the end of the array and check for maximum ramp
-        for (int i = n - 1; i >= 0; i--) {
-            while (indexSize > 0 && nums[indices[indexSize - 1]] <= nums[i]) {
-                maxWidth = Math.max(maxWidth, i - indices[--indexSize]);
+        int maxWidth = 0;
+
+        // Traverse the array from the end to the start
+        for (int j = n - 1; j >= 0; j--) {
+            while (
+                !indicesStack.isEmpty() && nums[indicesStack.peek()] <= nums[j]
+            ) {
+                maxWidth = Math.max(maxWidth, j - indicesStack.peek());
+                // Pop the index since it's already processed
+                indicesStack.pop();
             }
         }
 
