@@ -20,10 +20,10 @@ class Solution {
             pre[i] = sum;
             max = Math.max(sum,max);
         }
-        System.out.println(Arrays.toString(pre));
-        for(int[] i :arr){
-            System.out.println(Arrays.toString(i));
-        }
+        // System.out.println(Arrays.toString(pre));
+        // for(int[] i :arr){
+        //     System.out.println(Arrays.toString(i));
+        // }
         return max;
     }
 }
