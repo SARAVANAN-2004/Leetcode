@@ -12,12 +12,12 @@ class Solution {
             }
             return b[1] - a[1];
         });
-        int[] pre = new int[arr.size()];
+       
         int sum = 0;
         int max =0;
         for(int i = 0;i<arr.size();i++){
             sum += arr.get(i)[1];
-            pre[i] = sum;
+           
             max = Math.max(sum,max);
         }
         // System.out.println(Arrays.toString(pre));
