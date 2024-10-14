@@ -14,6 +14,7 @@ A collection of LeetCode questions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
