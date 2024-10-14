@@ -10,13 +10,13 @@ class Solution {
                 dp[i] = dp[i-1]+1;
             }
         }
-        System.out.println(Arrays.toString(dp));
+        // System.out.println(Arrays.toString(dp));
         for(int i = n-2;i>=0;i--){
             if(arr[i] > arr[i+1]){
                 dp[i] = Math.max(dp[i],dp[i+1]+1);
             }
         }
-        System.out.println(Arrays.toString(dp));
+        // System.out.println(Arrays.toString(dp));
         int sum = 0;
         for(int i :dp){
             sum+=i;
