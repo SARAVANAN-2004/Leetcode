@@ -1,14 +1,14 @@
 class Solution {
-  public long minimumSteps(String s) {
-    var i = 0;
-    var res = 0L;
-
-    for (var j = 0; j < s.length(); j++) {
-      if (s.charAt(j) == '0') {
-        res += j - i;
-        i++;
-      }
+    public long minimumSteps(String s) {
+        char[] arr =s.toCharArray();
+        int idx = arr.length-1;
+        long cnt = 0;
+        for(int i = arr.length-1;i>=0;i--){
+            if(arr[i] == '1'){
+               cnt += (idx-i);
+               idx--;
+            }
+        }
+        return cnt;
     }
-    return res;
-  }
 }
