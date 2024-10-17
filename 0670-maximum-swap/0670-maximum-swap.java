@@ -1,18 +1,35 @@
 class Solution {
     public int maximumSwap(int num) {
-       String s = ""+num;
-       int n = s.length();
-       int max = num;
-       for(int i = 0;i <n-1;i++){
-            for(int j = i+1;j<n;j++){
-                if(s.charAt(i) - '0' < s.charAt(j)-'0'){
-int next = Integer.valueOf(""+s.substring(0,i)+s.charAt(j)+s.substring(i+1,j)+s.charAt(i)+s.substring(j+1));
-                    max = Math.max(next,max);
-                    // System.out.println(next);
-                }
+       List<Integer> arr = new ArrayList<>();
+       int x = num;
+       while(x > 0){
+        arr.add(x%10);
+        x/=10;
+       }
+       int idx  = -1;
+       int idy = -1;
+       int max = -1;
+        for(int i = 0;i<arr.size();i++){
+            if(max == -1 || arr.get(max) < arr.get(i)){
+                max = i;
+            }else if(arr.get(max) > arr.get(i)){
+                idx = max;
+                idy = i;
             }
+        }
+        if(idx != -1 && idy != -1){
+            int temp = arr.get(idx);
+            arr.set(idx,arr.get(idy));
+            arr.set(idy,temp);
+        }
+
+
+        int sum = 0;
+       for(int i = arr.size()-1;i>=0;i--){
+        sum *= 10;
+        sum += arr.get(i);
        }
 
-       return max;
+       return sum;
     }
 }
