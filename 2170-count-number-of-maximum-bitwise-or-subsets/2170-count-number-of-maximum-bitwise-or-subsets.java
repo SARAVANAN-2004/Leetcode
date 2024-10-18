@@ -1,44 +1,22 @@
 class Solution {
+    int max = 0;
+    int freq = 0;
     public int countMaxOrSubsets(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        int n = nums.length;
-        List<Integer> temp = new ArrayList<>();
-        solve(ans,temp,nums,n,0);
-        int max = 0;
-        int cnt = 0;
-        for(int i :nums){
-            max = max | i;
-        }
-
-        for(List<Integer> arr: ans){
-            if(valid(arr,max,n)){
-                cnt++;
-            }
-        }
-        return cnt;
         
+
+        solve(nums,0,0);
+        return freq;
     }
-    public static void solve(List<List<Integer>> ans,List<Integer> temp,int[] nums,int n,int st ){
-        if(st == n){
-            ans.add(new ArrayList<>(temp));
-            return;
-        }
-        
-        temp.add(nums[st]);
-        solve(ans,temp,nums,n,st+1);
-        
-        temp.remove(temp.size()-1);
-        solve(ans,temp,nums,n,st+1);  
-
-    }
-
-    public static boolean valid(List<Integer> arr,int max,int n){
-        if(arr.size() == n){ return true;}
-        int curmax = 0;
-        for(int i:arr){
-            curmax |= i;
+    void solve(int[] nums,int curidx,int curr){
+        if(curr > max){
+            max = curr;
+            freq = 1;
+        }else if(curr == max){
+            freq++;
         }
 
-        return curmax == max;
+        for(int i = curidx;i<nums.length;i++){
+            solve(nums,i+1,curr|nums[i]);
+        }
     }
 }
