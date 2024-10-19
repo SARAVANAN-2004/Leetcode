@@ -122,6 +122,7 @@ A collection of LeetCode questions
 | [1250-longest-common-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0735-asteroid-collision) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2155-find-missing-observations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
