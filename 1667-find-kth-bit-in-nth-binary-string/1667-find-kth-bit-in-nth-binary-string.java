@@ -1,5 +1,9 @@
 class Solution {
     public char findKthBit(int n, int k) {
+        if(n==1||k==1)
+        {
+            return '0';
+        }
         StringBuilder s = new StringBuilder("0");
         for(int i = 0;i<n-1;i++){
             // System.out.println(s);
