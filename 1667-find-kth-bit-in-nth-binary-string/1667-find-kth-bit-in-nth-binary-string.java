@@ -4,7 +4,7 @@ class Solution {
         for(int i = 0;i<n-1;i++){
             // System.out.println(s);
             StringBuilder temp = invert(s);
-            temp.reverse();
+            
             s.append("1"+temp);
         }
 
@@ -15,7 +15,7 @@ class Solution {
 
     public StringBuilder invert(StringBuilder s){
         StringBuilder word = new StringBuilder();
-        for(int i = 0;i<s.length();i++){
+        for(int i = s.length()-1;i>=0;i--){
             if(s.charAt(i) == '1'){
                 word.append("0");
             }else{
