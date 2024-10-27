@@ -39,6 +39,7 @@ A collection of LeetCode questions
 | [1256-rank-transform-of-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions
 | ------- |
 | [0200-number-of-islands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2411-spiral-matrix-iv](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1240-stone-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
