@@ -7,7 +7,7 @@ class Solution {
            map.put((long)(n*n),map.getOrDefault((long)(n),0)+1);
            max = Math.max(max,map.get((long)(n*n)));
         }
-        System.out.println(map);
+        
         return max==1?-1:max;
 
 
