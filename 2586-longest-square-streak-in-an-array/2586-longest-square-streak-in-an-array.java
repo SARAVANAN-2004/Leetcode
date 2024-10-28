@@ -12,7 +12,7 @@ class Solution {
             }
            max = Math.max(max,map.get(n));
         }
-        System.out.println(map);
+        // System.out.println(map);
         return max==1?-1:max;
 
 
