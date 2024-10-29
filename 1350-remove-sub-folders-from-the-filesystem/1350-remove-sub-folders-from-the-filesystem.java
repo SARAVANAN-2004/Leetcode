@@ -1,40 +1,27 @@
 class Solution {
-  class Node {
-    Map<String, Node> next = new HashMap<>();
-    boolean isEnd;
-  }
-  Node root = new Node();
-
-  public List<String> removeSubfolders(String[] folder) {
-    for (var path : folder) {
-      var p = root;
-
-      for (var dir : path.split("/")) {
-        if (dir.equals("")) continue;
-
-        if (!p.next.containsKey(dir))
-          p.next.put(dir, new Node());
-
-        p = p.next.get(dir);
-      }
-      p.isEnd = true;
+    public List<String> removeSubfolders(String[] folder) {
+        Arrays.sort(folder);
+        List<String> ans = new ArrayList<>();
+        String lastword = "";
+        for(int i = 0;i<folder.length;i++){
+            
+                if(ans.isEmpty() || isSubFolder(lastword.split("/"),folder[i].split("/"))){
+                    ans.add(folder[i]);
+                    lastword = folder[i];
+                }
+            
+           }
+        
+        return ans;
     }
-    var res = new ArrayList<String>();
 
-    for (var path : folder) {
-      var p = root;
-      var isValid = true;
+    boolean isSubFolder(String[] s1,String[] s2){
 
-      for (var dir : path.split("/")) {
-        if (dir.equals("")) continue;
-        if (p.isEnd) {
-          isValid = false;
-          break;
+        for(int i =0;i<s1.length;i++){
+            if(!s1[i].equals(s2[i])){
+                return true;
+            }
         }
-        p = p.next.get(dir);
-      }
-      if (isValid) res.add(path);
+        return false;
     }
-    return res;
-  }
 }
