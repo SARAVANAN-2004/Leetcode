@@ -2,15 +2,15 @@ class Solution {
     public String compressedString(String word) {
         StringBuilder comp = new StringBuilder();
         int n = word.length();
-        for(int i = 0;i<n;i++){
+        for(int i = 0;i<n;){
             int cnt = 0;
             char cur = word.charAt(i);
-            int j = i;
-            while(j < n && cur == word.charAt(j) && cnt<9){
+            
+            while(i < n && cur == word.charAt(i) && cnt<9){
                 cnt++;
-                j++;
+                i++;
             }
-            i = j-1;
+            
             comp.append(""+cnt+cur);
             
         }
