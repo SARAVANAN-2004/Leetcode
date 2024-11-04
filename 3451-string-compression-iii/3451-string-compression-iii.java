@@ -11,7 +11,8 @@ class Solution {
                 i++;
             }
             
-            comp.append(""+cnt+cur);
+            comp.append(""+cnt);
+            comp.append(cur);
             
         }
         return comp.toString();
