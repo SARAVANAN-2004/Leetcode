@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int[] arr = new int[n];
         for(int i = 0;i<n;i++){
-            arr[i] = setBits(Integer.toBinaryString(nums[i]));
+            arr[i] = setBits(nums[i]);
         }
         // System.out.println(Arrays.toString(arr));
         
@@ -28,13 +28,14 @@ class Solution {
 
         return true;
     }
-    int setBits(String s){
-        int cnt = 0;
-        for(char ch:s.toCharArray()){
-            if(ch == '1'){
-                cnt++;
+    int setBits(int number){
+        int count = number % 2;
+        while (number != 0) {
+            number = (number >> 1);
+            if (number % 2 == 1) {
+                count++;
             }
         }
-        return cnt;
+        return count;
     }
 }
