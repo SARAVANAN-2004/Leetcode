@@ -53,6 +53,7 @@ A collection of LeetCode questions
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2155-find-missing-observations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions
 | [0854-making-a-large-island](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1972-rotating-the-box](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions
 | [0189-rotate-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
