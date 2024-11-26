@@ -4,7 +4,7 @@ class Solution {
         for(int a[]:edges ){
             arr[a[1]]++;
         }
-        System.out.println(Arrays.toString(arr));
+        // System.out.println(Arrays.toString(arr));
         int cnt = 0;
         int idx = 0;
         for(int i = 0;i<n;i++){
