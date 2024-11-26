@@ -74,6 +74,7 @@ A collection of LeetCode questions
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3188-find-champion-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3188-find-champion-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Depth-First Search
@@ -121,6 +122,7 @@ A collection of LeetCode questions
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3188-find-champion-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3188-find-champion-i) |
 ## Hash Table
 |  |
 | ------- |
