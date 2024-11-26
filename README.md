@@ -85,6 +85,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0547-number-of-provinces) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0854-making-a-large-island](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0854-making-a-large-island) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0547-number-of-provinces) |
 | [0854-making-a-large-island](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0854-making-a-large-island) |
 ## Matrix
 |  |
@@ -440,6 +443,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0547-number-of-provinces) |
 | [3189-find-champion-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
