@@ -440,6 +440,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3189-find-champion-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
