@@ -10,7 +10,7 @@ class Solution {
                 }
             }
         }
-        System.out.println(Arrays.toString(arr));
+        
         int maxIdx = 0;
         int max = 0;
         for(int i = 0;i<row;i++){
