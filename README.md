@@ -39,6 +39,7 @@ A collection of LeetCode questions
 | [0787-sliding-puzzle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1256-rank-transform-of-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0670-maximum-swap) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
