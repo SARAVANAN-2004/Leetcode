@@ -29,6 +29,7 @@ A collection of LeetCode questions
 | [0219-contains-duplicate-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions
 | ------- |
 | [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
+| [0274-h-index](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0274-h-index) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -552,4 +554,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
