@@ -89,6 +89,7 @@ A collection of LeetCode questions
 | [3188-find-champion-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3188-find-champion-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3427-special-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Depth-First Search
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions
 | [1694-make-sum-divisible-by-p](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3427-special-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions
 | [2164-two-best-non-overlapping-events](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
