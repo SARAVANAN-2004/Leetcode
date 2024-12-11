@@ -86,6 +86,7 @@ A collection of LeetCode questions
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3188-find-champion-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3188-find-champion-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions
 | [2164-two-best-non-overlapping-events](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
@@ -375,6 +377,7 @@ A collection of LeetCode questions
 | [2586-longest-square-streak-in-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
@@ -481,6 +484,7 @@ A collection of LeetCode questions
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Design
 |  |
