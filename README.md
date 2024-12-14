@@ -89,6 +89,7 @@ A collection of LeetCode questions
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3188-find-champion-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3188-find-champion-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2868-continuous-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Design
@@ -514,6 +516,7 @@ A collection of LeetCode questions
 | ------- |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Graph
 |  |
 | ------- |
@@ -545,6 +548,7 @@ A collection of LeetCode questions
 | ------- |
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -568,6 +572,7 @@ A collection of LeetCode questions
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -576,6 +581,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Shortest Path
 |  |
 | ------- |
