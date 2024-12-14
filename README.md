@@ -373,6 +373,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -595,4 +599,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0274-h-index](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0274-h-index) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
