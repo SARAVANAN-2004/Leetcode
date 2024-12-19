@@ -40,6 +40,7 @@ A collection of LeetCode questions
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0741-cherry-pickup) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions
 | [0295-find-median-from-data-stream](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1256-rank-transform-of-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0670-maximum-swap) |
 | [0770-couples-holding-hands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0770-couples-holding-hands) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1304-longest-happy-string) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
