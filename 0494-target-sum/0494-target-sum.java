@@ -1,20 +1,28 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
-    int cnt = 0;
     public int findTargetSumWays(int[] nums, int target) {
-        int sum = 0;
-        dfs(nums,sum,target,0);
-        return cnt;
+        Map<String, Integer> memo = new HashMap<>();
+        return dfs(nums, 0, target, 0, memo);
     }
 
-    void dfs(int[] arr,int sum ,int target,int idx){
-        if(idx == arr.length){
-            if(sum == target){
-                cnt++;
-            }
-            return;
+    int dfs(int[] arr, int sum, int target, int idx, Map<String, Integer> memo) {
+        if (idx == arr.length) {
+            return sum == target ? 1 : 0;
         }
 
-        dfs(arr,sum+arr[idx],target,idx+1);
-        dfs(arr,sum-arr[idx],target,idx+1);
+        String key = idx + "," + sum;
+
+        if (memo.containsKey(key)) {
+            return memo.get(key);
+        }
+
+        int add = dfs(arr, sum + arr[idx], target, idx + 1, memo);
+        int subtract = dfs(arr, sum - arr[idx], target, idx + 1, memo);
+
+        memo.put(key, add + subtract);
+
+        return add + subtract;
     }
 }
