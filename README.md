@@ -34,6 +34,7 @@ A collection of LeetCode questions
 | [0312-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0330-patching-array) |
+| [0494-target-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions
 | [0051-n-queens](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
@@ -333,6 +335,7 @@ A collection of LeetCode questions
 | [0300-longest-increasing-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0494-target-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0741-cherry-pickup) |
 | [1240-stone-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1250-longest-common-subsequence) |
