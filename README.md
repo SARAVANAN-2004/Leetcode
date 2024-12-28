@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [0494-target-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0735-asteroid-collision) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions
 | [0312-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0741-cherry-pickup](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0741-cherry-pickup) |
 | [1063-best-sightseeing-pair](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1240-stone-game-ii) |
