@@ -12,7 +12,6 @@ class Solution {
             } 
             prefix[i] = sum;
         }
-        System.out.println(Arrays.toString(prefix));
         for(int i = 0;i<queries.length;i++){
             ans[i] = prefix[queries[i][1]];
             if(queries[i][0]-1 >= 0){
