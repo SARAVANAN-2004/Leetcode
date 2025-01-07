@@ -10,6 +10,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0068-text-justification) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0139-word-break) |
