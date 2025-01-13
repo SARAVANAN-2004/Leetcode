@@ -6,7 +6,7 @@ class Solution {
         for(int i = 0;i<n;i++){
             arr[i+1] = nums[i];
         }
-        System.out.println(Arrays.toString(arr));
+        // System.out.println(Arrays.toString(arr));
 
         int[][] dp = new int[n+1][n+1];
        for(int[] i:dp){
