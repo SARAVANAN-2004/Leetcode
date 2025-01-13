@@ -1,71 +1,60 @@
 class Solution {
+    int size = 0;
+    int cnt = 2;
+    int row,col;
     public int largestIsland(int[][] grid) {
-        int cnt = 2;
-        int n = grid.length;
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<n;j++){
-                if(grid[i][j] == 1){
-                    dfs(n,grid,i,j,cnt);
+        row = grid.length;
+        col = grid[0].length;
+        Map<Integer,Integer> map = new HashMap<>();
+        int maxi = 1;
+        for(int r = 0;r<row;r++){
+            for(int c = 0;c<col;c++){
+                if(grid[r][c] == 1){
+                    dfs(r,c,grid);
+                    map.put(cnt,size);
+                    maxi = Math.max(size,maxi);
+                    size = 0;
                     cnt++;
                 }
             }
         }
-        Map<Integer,Integer> map = new HashMap<>();
-        int max = 0;
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<n;j++){
-                if(grid[i][j] != 0){
-                    map.put(grid[i][j],map.getOrDefault(grid[i][j],0)+1);
-                    max = Math.max(max,map.get(grid[i][j]));
-                }
-            }
-        }
         
-        for(int r = 0;r<n;r++){
-            for(int c = 0;c <n;c++){
+        for(int r = 0;r<row;r++){
+            int[] adjr = new int[]{-1,1,0,0};
+            int[] adjc = new int[]{0,0,1,-1};
+            for(int c = 0;c<col;c++){
                 if(grid[r][c] == 0){
-                    max = Math.max(max,sum(map,grid,r,c,n));
+                    int val = 1;
+                    Set<Integer> set = new HashSet<>();
+                    for(int i = 0;i<4;i++){
+                        int ro = adjr[i] + r, co = adjc[i]+ c;
+                        if(valid(ro,co) && grid[ro][co] != 0 && 
+                        !set.contains(grid[ro][co])){
+                            val += map.get(grid[ro][co]);
+                            set.add(grid[ro][co]);
+                        }
+                    }
+                    maxi = Math.max(maxi,val);
+
                 }
             }
+            
         }
-        // System.out.println(map);
-        // for(int[] i:grid){
-        //     System.out.println(Arrays.toString(i));
-        // }
-        return max;
+        return maxi;
     }
 
-    int sum(Map<Integer,Integer> map,int[][] grid,int r,int c,int n){
-        int s = 1;
-        int[] adjrow = {-1,1,0,0};
-        int[] adjcol = {0,0,-1,1};
-        Set<Integer> set = new HashSet<>();
-        for(int i = 0;i<4;i++){
-            int nrow = r+adjrow[i];
-            int ncol = c+adjcol[i];
-            if(nrow >=0 && nrow < n && ncol >= 0 && ncol < n && grid[nrow][ncol] != 0){
-              if(!set.contains(grid[nrow][ncol])){
-                s+=map.get(grid[nrow][ncol]);
-                set.add(grid[nrow][ncol]);
-              }  
-            }
-        }
-        return s;
-    }
-
-    public void dfs(int n,int[][] grid,int r,int c,int cnt){
-        if(r < 0 || c < 0 || c >= n || r >= n || grid[r][c] != 1){
+    public void dfs(int r,int c,int [][]grid){
+        if(!valid(r,c) || grid[r][c] != 1){
             return;
         }
-        
+        size++;
         grid[r][c] = cnt;
-
-        dfs(n,grid,r-1,c,cnt);
-        dfs(n,grid,r,c-1,cnt);
-        dfs(n,grid,r+1,c,cnt);
-        dfs(n,grid,r,c+1,cnt);
+        dfs(r-1,c,grid);
+        dfs(r+1,c,grid);
+        dfs(r,c-1,grid);
+        dfs(r,c+1,grid);
     }
-
-
-
+    public boolean valid(int r,int c){
+        return r >=0 && r < row && c >= 0 && c<col;
+    }
 }
