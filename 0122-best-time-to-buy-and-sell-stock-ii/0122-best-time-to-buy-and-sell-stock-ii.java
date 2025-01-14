@@ -5,10 +5,9 @@ class Solution {
         for(int i :prices){
             if(i > cur){
                 price += (i - cur);
-                cur = i;
-            }else{
-                cur = Math.min(cur,i);
+                
             }
+            cur = i;
             
         }
         return price;
