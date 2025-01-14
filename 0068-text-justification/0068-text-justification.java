@@ -2,6 +2,7 @@ class Solution {
     public List<String> fullJustify(String[] words, int maxWidth) {
         List<String> res = new ArrayList<>();
         List<String> ans = new ArrayList<>();
+        if (words == null || words.length == 0) { return res;}
         int curWidth = 0,len = 0;
         for(String s:words){
             int curLen = s.length();
