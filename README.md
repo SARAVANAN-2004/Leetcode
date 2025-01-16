@@ -90,6 +90,7 @@ A collection of LeetCode questions
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2470-removing-stars-from-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -661,12 +663,14 @@ A collection of LeetCode questions
 | [0780-max-chunks-to-make-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Linked List
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2411-spiral-matrix-iv](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Queue
 |  |
