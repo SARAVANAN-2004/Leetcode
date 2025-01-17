@@ -52,6 +52,7 @@ A collection of LeetCode questions
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
