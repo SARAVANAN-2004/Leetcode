@@ -64,6 +64,7 @@ A collection of LeetCode questions
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions
 | [0770-couples-holding-hands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0787-sliding-puzzle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0854-making-a-large-island) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions
 | [0854-making-a-large-island](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1972-rotating-the-box](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
