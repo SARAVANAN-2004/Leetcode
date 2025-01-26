@@ -216,6 +216,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0812-rotate-string) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
