@@ -14,6 +14,7 @@ A collection of LeetCode questions
 | [0036-valid-sudoku](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0051-n-queens) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0135-candy) |
