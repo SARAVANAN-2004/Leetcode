@@ -17,6 +17,7 @@ A collection of LeetCode questions
 | [0046-permutations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
