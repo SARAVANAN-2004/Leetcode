@@ -212,6 +212,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0041-first-missing-positive) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0022-generate-parentheses) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
