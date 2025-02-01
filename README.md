@@ -133,6 +133,7 @@ A collection of LeetCode questions
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Depth-First Search
