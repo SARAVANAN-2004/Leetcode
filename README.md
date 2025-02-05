@@ -272,6 +272,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0125-valid-palindrome) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0071-simplify-path) |
 | [0735-asteroid-collision](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
