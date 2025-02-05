@@ -20,8 +20,8 @@ class Solution {
                 stack.push("/");
             }
         }
-        System.out.println(Arrays.toString(arr));
-        System.out.println(stack);
+        // System.out.println(Arrays.toString(arr));
+        // System.out.println(stack);
 
         Stack<String> st = new Stack<>();
         while(!stack.isEmpty()){
