@@ -8,9 +8,9 @@ class Solution {
             }
         }
         );
-        for(int i[]:points){
-        System.out.print(Arrays.toString(i)+" ");
-        }
+        // for(int i[]:points){
+        // System.out.print(Arrays.toString(i)+" ");
+        // }
         int arrow = 0;
         int i = 0;
         int n = points.length;
