@@ -1,6 +1,4 @@
 class Solution {
-    Set<String> set = new HashSet<>();
-    Map<Integer,Boolean> memo = new HashMap<>();
     public boolean wordBreak(String s, List<String> wordDict) {
         int n = s.length();
         boolean[] dp = new boolean[n+1];
