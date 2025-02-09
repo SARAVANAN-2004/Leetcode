@@ -2,27 +2,22 @@ class Solution {
     Set<String> set = new HashSet<>();
     Map<Integer,Boolean> memo = new HashMap<>();
     public boolean wordBreak(String s, List<String> wordDict) {
-        for(String str:wordDict){
-            set.add(str);
-        }
-        return solve(s,0);
-    }
-    boolean solve(String s,int start){
-        if(start == s.length()){
-            return true;
-        }
-        if(memo.containsKey(start)){
-            return memo.get(start);
-        }
-        for(int end = start+1;end <= s.length();end++){
-            if(set.contains(s.substring(start,end))){ 
-                if(solve(s,end)){
-                    // memo.put(start,true);
-                    return true;
+        int n = s.length();
+        boolean[] dp = new boolean[n+1];
+        dp[n] = true;
+        for(int st = n-1;st>=0;st--){
+            for(String word:wordDict){
+                int m = word.length();
+                if(st + m<= n && 
+                s.substring(st,st+m).equals(word)){
+                    dp[st] = dp[st+m];
+                }
+                if(dp[st]){
+                    break;
                 }
             }
         }
-        memo.put(start,false);
-        return false;
+        return dp[0];
     }
+    
 }
