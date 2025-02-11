@@ -4,8 +4,7 @@ class Solution {
         int cur = prices[0];
         for(int i :prices){
             if(i > cur){
-                price += (i - cur);
-                
+                price += (i - cur);  
             }
             cur = i;
             
