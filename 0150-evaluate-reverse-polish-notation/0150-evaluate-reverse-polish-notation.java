@@ -10,7 +10,7 @@ class Solution {
             if(Character.isDigit(ch)){
                 stack.push((int)(ch - '0'));
             }else{
-                // System.out.println(stack.size()+" "+stack);
+                
                 int b = stack.pop() , a = stack.pop();
                 switch(ch){
                     case '+':
