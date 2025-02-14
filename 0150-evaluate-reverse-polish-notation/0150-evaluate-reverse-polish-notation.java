@@ -3,7 +3,7 @@ class Solution {
         Stack<Integer> stack = new Stack<>();
         for(String s:tokens){
             if(s.length()> 1){
-                stack.push(Integer.valueOf(s));
+                stack.push(Integer.parseInt(s));
                 continue;
             }
             Character ch = s.charAt(0);
