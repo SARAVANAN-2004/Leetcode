@@ -23,6 +23,6 @@ class Solution {
             }
         }
         
-        return (int)(Math.pow(maxi,2));
+        return maxi * maxi;
     }
 }
