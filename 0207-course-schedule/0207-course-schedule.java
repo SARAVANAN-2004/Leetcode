@@ -29,6 +29,7 @@ class Solution {
             }
         }
         visiting[i] = false;
+        canvis[i] = true;
         return false;
     }
 }
