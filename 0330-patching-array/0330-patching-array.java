@@ -1,24 +1,23 @@
 class Solution {
-    public int minPatches(int[] arr, int n) {
-        int  patchCtr = 0;
+    public int minPatches(int[] nums, int n) {
+        int cnt = 0;
         long till = 0;
-        for(int i = 0;till < n && i<arr.length;i++){
-            if(till > arr[i]-1){
-                till += arr[i];
+        for(int i = 0;till < n && i < nums.length;i++){
+            if(till > nums[i]-1){
+                till+=nums[i];
             }else{
-                while(till < n && till < arr[i]-1){
+                while(till < n && till < nums[i]-1){
                     till += (till+1);
-                    patchCtr++;
+                    cnt++;
                 }
-                till += arr[i];
+                till += nums[i];
             }
         }
-
         while(till < n){
-            till+=(till+1);
-            patchCtr++;
+            till += (till+1);
+            cnt++;
         }
+        return cnt;
 
-        return patchCtr++;
     }
 }
