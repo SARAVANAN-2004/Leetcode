@@ -1,8 +1,8 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
         int st = 0;
-        long sum = 0;
-        long maxi = 0;
+        int sum = 0;
+        int maxi = 0;
         int n = gas.length;
         
         for(int i = 0;i<n;i++){
@@ -16,7 +16,6 @@ class Solution {
             }
         }
         if(sum < 0) return -1;
-        
         return st;
 
     }
