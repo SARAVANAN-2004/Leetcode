@@ -1,22 +1,19 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        int st = 0;
-        int sum = 0;
-        int maxi = 0;
-        int n = gas.length;
+        int st = 0;   // Starting index
+        int sum = 0;  // Total balance
+        int maxi = 0; // Current fuel balance
         
-        for(int i = 0;i<n;i++){
-            int curval = gas[i] - cost[i];
-            sum += curval;
-            if(curval > curval+ maxi){
-                st = i;
-                maxi = curval;
-            }else{
-                maxi += curval;
+        for (int i = 0; i < gas.length; i++) {
+            int curval = gas[i] - cost[i]; 
+            sum += curval; 
+            maxi += curval;
+
+            if (maxi < 0) { // If running sum goes negative, reset
+                st = i + 1;  
+                maxi = 0;    
             }
         }
-        if(sum < 0) return -1;
-        return st;
-
+        return (sum < 0) ? -1 : st;
     }
 }
