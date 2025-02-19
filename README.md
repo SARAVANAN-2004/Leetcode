@@ -244,6 +244,7 @@ A collection of LeetCode questions
 | [0127-word-ladder](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
 ## Game Theory
 |  |
