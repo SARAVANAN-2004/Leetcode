@@ -354,6 +354,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions
 | [0100-same-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions
 | [0100-same-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
