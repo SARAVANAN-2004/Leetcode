@@ -94,6 +94,7 @@ A collection of LeetCode questions
 | [1559-cherry-pickup-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1659-get-the-maximum-score](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1694-make-sum-divisible-by-p](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1503-reducing-dishes) |
 | [1559-cherry-pickup-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1659-get-the-maximum-score](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1659-get-the-maximum-score](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1923-sentence-similarity-iii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions
 | [1304-longest-happy-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1503-reducing-dishes) |
+| [1659-get-the-maximum-score](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2089-maximum-matrix-sum) |
