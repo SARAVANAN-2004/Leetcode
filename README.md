@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [0073-set-matrix-zeroes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0120-triangle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions
 | [0063-unique-paths-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0139-word-break) |
