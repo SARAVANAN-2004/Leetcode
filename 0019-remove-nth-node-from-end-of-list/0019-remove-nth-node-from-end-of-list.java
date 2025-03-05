@@ -17,6 +17,14 @@ class Solution {
             len++;
             cur =  cur.next;
         }
+         if (n==1 && (head == null || head.next == null)){
+            return null;
+        }
+        // delete the first node 
+        if (len==n) {
+            head=head.next;
+            return head;
+        }
         int pass = len-n;
         cur  = dummy;
         System.out.println(pass);
