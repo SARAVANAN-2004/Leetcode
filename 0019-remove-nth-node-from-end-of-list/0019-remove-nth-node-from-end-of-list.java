@@ -32,6 +32,9 @@ class Solution {
             if(i != pass){
             dummy.next = new ListNode(head.val);
             dummy = dummy.next; 
+            }else{
+                dummy.next = head.next;
+                break;
             }
             head = head.next;
         }
