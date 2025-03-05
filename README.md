@@ -62,6 +62,7 @@ A collection of LeetCode questions
 | [0480-sliding-window-median](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions
 | [0380-insert-delete-getrandom-o1](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0480-sliding-window-median](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0480-sliding-window-median) |
+| [0560-subarray-sum-equals-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1240-stone-game-ii) |
