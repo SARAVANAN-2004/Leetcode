@@ -10,14 +10,14 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        int len = 0;
-        ListNode dummy = new ListNode(0); 
-        ListNode cur = head;
-        while(cur != null){
+        int len=0;
+        ListNode itr=head;
+        while (itr != null){
             len++;
-            cur =  cur.next;
+            itr=itr.next;
         }
-         if (n==1 && (head == null || head.next == null)){
+        // when len is 0 or 1
+        if (n==1 && (head == null || head.next == null)){
             return null;
         }
         // delete the first node 
@@ -25,20 +25,17 @@ class Solution {
             head=head.next;
             return head;
         }
-        int pass = len-n;
-        cur  = dummy;
-        System.out.println(pass);
-        for(int i = 0;i<len;i++){
-            if(i != pass){
-            dummy.next = new ListNode(head.val);
-            dummy = dummy.next; 
-            }else{
-                dummy.next = head.next;
-                break;
-            }
-            head = head.next;
+        // locate the n-k-1 node
+        int c= 0;
+        itr=head;
+        // traverse upto n=k-1 node 
+        while (c< len-n-1){
+            itr=itr.next;
+            c++;
         }
-        return cur.next;
+       
+        itr.next=itr.next.next;
+        return head;
 
 
     }
