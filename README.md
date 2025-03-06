@@ -338,6 +338,7 @@ A collection of LeetCode questions
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1894-merge-strings-alternately](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1659-get-the-maximum-score](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1659-get-the-maximum-score) |
+| [1894-merge-strings-alternately](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
