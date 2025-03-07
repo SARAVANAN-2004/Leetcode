@@ -15,16 +15,16 @@
  */
 class Solution {
     List<Integer> lst = new ArrayList<>();
-    void dfs(TreeNode root){
-        if(root == null) return;
+    void dfs(TreeNode root,int k){
+        if(root == null || lst.size() >= k ) return;
 
-        dfs(root.left);
+        dfs(root.left,k);
         lst.add(root.val);
-        dfs(root.right);
+        dfs(root.right,k);
     }
 
     public int kthSmallest(TreeNode root, int k) {
-        dfs(root);
+        dfs(root,k);
         return lst.get(k-1);
     }
 }
