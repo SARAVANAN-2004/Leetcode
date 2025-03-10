@@ -14,7 +14,7 @@ class Solution {
             if(cnt == 1) continue;
             else{
                 String num = Integer.toString(cnt);
-               for(char ch:num.toCharArray()) chars[idx++] = ch;
+               for(int k = 0;k<num.length();k++) chars[idx++] = num.charAt(k);
                i = j-1;
             }
         }
