@@ -553,6 +553,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0189-rotate-array) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
