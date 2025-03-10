@@ -16,8 +16,6 @@ class Solution {
                i = j-1;
             }
         }
-
-
         return idx;
     }
 }
