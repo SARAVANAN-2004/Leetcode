@@ -1,5 +1,6 @@
 class Solution {
     public int compress(char[] chars) {
+        if(chars == null) return 0;
         int idx = 0;
         int n = chars.length;
         for(int i = 0;i<n;i++){
