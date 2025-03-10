@@ -13,7 +13,8 @@ class Solution {
             chars[idx++] = chars[i];
             if(cnt == 1) continue;
             else{
-               for(char ch:(""+cnt).toCharArray()) chars[idx++] = ch;
+                String num = Integer.toString(cnt);
+               for(char ch:num.toCharArray()) chars[idx++] = ch;
                i = j-1;
             }
         }
