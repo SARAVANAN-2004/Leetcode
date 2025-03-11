@@ -15,21 +15,20 @@
  */
 class Solution {
     int min = Integer.MAX_VALUE;
-    Integer prev = null;
+    List<Integer> arr = new ArrayList<>();
     public int getMinimumDifference(TreeNode root) {
         dfs(root);
+        // Collections.sort(arr);
+        for(int i = 0;i<arr.size()-1;i++){
+            min = Math.min(min,Math.abs(arr.get(i)-arr.get(i+1)));
+        }
         return min;
     }
-
     void dfs(TreeNode root){
         if(root == null) return;
-
         dfs(root.left);
-        if(prev != null){
-            // System.out.println(prev+" "+root.val);
-            min = Math.min(min,Math.abs(root.val - prev));
-        }
-        prev = root.val;
+        arr.add(root.val);
         dfs(root.right);
     }
+
 }
