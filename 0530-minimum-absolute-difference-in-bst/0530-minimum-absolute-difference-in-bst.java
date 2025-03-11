@@ -26,7 +26,7 @@ class Solution {
 
         dfs(root.left);
         if(prev != null){
-            System.out.println(prev+" "+root.val);
+            // System.out.println(prev+" "+root.val);
             min = Math.min(min,Math.abs(root.val - prev));
         }
         prev = root.val;
