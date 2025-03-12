@@ -20,21 +20,19 @@ class Solution {
             }
         }
 
-        // System.out.println(map);
-        Set<Integer> set = new HashSet<>();
+       
+        boolean[] vis = new boolean[end+1];
+
         Queue<int[]> queue = new LinkedList<>();
         queue.add(new int[]{1,0});
-        set.add(1);
+        vis[1] = true;
         int min = Integer.MAX_VALUE;
         while(!queue.isEmpty()){
             int[] cur = queue.poll();
             int num = cur[0] ,roll = cur[1];
             
             for(int curr = num+1;curr<=Math.min(num+6,end);curr++){
-                // if(curr == end){
-                //     min = Math.min(min,roll+1);
-                //     continue;
-                // }
+                
                 int place = curr;
                 if(map.get(curr) != -1){
                     place = map.get(curr);
@@ -44,9 +42,8 @@ class Solution {
                     continue;
                 }
                 
-                if(!set.contains(place)){
-                    // set.add(curr);
-                    set.add(place);
+                if(!vis[place]){
+                    vis[place]  = true;
                     queue.add(new int[]{place,roll+1});
                 }
             }
