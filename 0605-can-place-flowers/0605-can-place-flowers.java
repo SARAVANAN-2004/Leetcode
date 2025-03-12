@@ -6,6 +6,7 @@ class Solution {
                 cnt++;
                 arr[i] = 1;
             }
+            if(cnt >= n) return true;
         }
         // System.out.println(cnt);
         return  n<=cnt;
