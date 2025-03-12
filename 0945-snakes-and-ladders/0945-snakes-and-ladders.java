@@ -1,20 +1,22 @@
 class Solution {
     public int snakesAndLadders(int[][] board) {
-        Map<Integer,Integer> map = new HashMap<>();
         int n = board.length;
         int end = n*n;
+        int[] map = new int[end+1];
+
         int idx = 1;
         boolean ltor = true;
         for(int r = n-1;r>=0;r--){
             if(ltor){
             for(int c = 0;c<n;c++){
-                map.put(idx++,board[r][c]);
+                map[idx++] = board[r][c];
             }
             ltor = false;
             }
             else{
                 for(int c = n-1;c>= 0;c--){
-                map.put(idx++,board[r][c]);
+                map[idx++] = board[r][c];
+
                 }
                 ltor = true;
             }
@@ -34,8 +36,8 @@ class Solution {
             for(int curr = num+1;curr<=Math.min(num+6,end);curr++){
                 
                 int place = curr;
-                if(map.get(curr) != -1){
-                    place = map.get(curr);
+                if(map[curr] != -1){
+                    place = map[curr];
                 }
                 if(place == end){
                     min = Math.min(min,roll+1);
