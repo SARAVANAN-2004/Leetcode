@@ -65,6 +65,7 @@ A collection of LeetCode questions
 | [0494-target-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions
 | [0330-patching-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0670-maximum-swap) |
 | [0770-couples-holding-hands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0770-couples-holding-hands) |
