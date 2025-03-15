@@ -107,6 +107,7 @@ A collection of LeetCode questions
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions
 | [1694-make-sum-divisible-by-p](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions
 | [1256-rank-transform-of-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1503-reducing-dishes) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1659-get-the-maximum-score](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1659-get-the-maximum-score) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1972-rotating-the-box) |
