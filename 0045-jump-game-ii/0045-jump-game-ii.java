@@ -1,21 +1,16 @@
 class Solution {
-    public int jump(int[] nums) {
-        int jumps = 1,step = nums[0] , maxIdx = nums[0], n = nums.length;
-        if(n == 1) return 0;
+    public int jump(int[] arr) {
+        int jump = 1, step = arr[0], maxIdx = arr[0];
 
-        for(int i = 1;i<n-1;i++){
-            // if(i == n-1) return jumps;
-            
-            maxIdx = Math.max(maxIdx,i+nums[i]);
+        if(arr.length == 1) return 0;
+        for(int i = 1;i<arr.length;i++){
             step--;
-            if(step == 0){
-                jumps++;
+            maxIdx = Math.max(maxIdx,i+arr[i]);
+            if(step == 0 && i != arr.length-1){
+                jump++;
                 step = maxIdx - i;
             }
-            
-            
-            
         }
-        return jumps;
+        return jump;
     }
 }
