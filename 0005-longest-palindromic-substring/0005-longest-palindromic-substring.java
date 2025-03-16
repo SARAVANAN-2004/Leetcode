@@ -1,45 +1,35 @@
 class Solution {
     public String longestPalindrome(String s) {
         int n = s.length();
-        int[][] dp = new int[n+1][n+1];
-        if(n == 1) return s;
-        for(int i = 1;i<=n;i++){
-            dp[i][i] = 1;
+        boolean[][] dp = new boolean[n][n];
+        for(int i = 0;i<n;i++){
+            dp[i][i]  = true;
         }
-        int max = 1;
-        int[] idx = new int[]{0,0};
+        int[] idx = new int[2];
+        int max = 0;
         for(int i = 0;i<n-1;i++){
             if(s.charAt(i) == s.charAt(i+1)){
-                dp[i][i+1] = 1;
-                dp[i+1][i] = 1;
-                
-                if(max == 1){
-                    idx[0] = i;
-                    idx[1] = i+1;
-                    max = 2;
+                dp[i][i+1] = true;
+                dp[i+1][i] = true;
+                max = 2;
+                idx[0] = i;
+                idx[1] = i+1;
+             }
+        }
 
+         for (int len = 3; len <= n; len++) {
+            for (int i = 0; i <= n - len; i++) { 
+                int j = i + len - 1;
+                
+                if (s.charAt(i) == s.charAt(j) && dp[i + 1][j - 1]) {
+                    dp[i][j] = true; 
+                    idx[0] = i;
+                    idx[1] = j;
                 }
             }
         }
-        
-        for(int r = n-3;r>=0;r--){
-            for(int c = r+2;c<n;c++){
-                if(s.charAt(r) == s.charAt(c)){
-                    if(dp[r+1][c-1] == 1){
-                        dp[r][c] = 1;
-                        if(dp[r][c] == 1 && max <= c-r+1){
-                            max = c-r+1;
-                            idx[0] = r;
-                            idx[1] = c;
-                            
-                        }
-                    }
-                }
-            }
-        }
-        // for(int[] i :dp){
-        //     System.out.println(Arrays.toString(i));
-        // }
+
+      
         return s.substring(idx[0],idx[1]+1);
     }
 }
