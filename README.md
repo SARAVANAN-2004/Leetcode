@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [0068-text-justification](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0101-symmetric-tree) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions
 | [0063-unique-paths-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0289-game-of-life) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions
 | [0071-simplify-path](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0127-word-ladder) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions
 | [0051-n-queens](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
