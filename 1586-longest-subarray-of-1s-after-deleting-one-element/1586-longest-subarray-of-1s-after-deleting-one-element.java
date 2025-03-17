@@ -1,19 +1,17 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-        int o = 0, z = 0, maxi = 0,j = 0;
-        int n = nums.length;
-        for(int i = 0;i<n;i++){
-            if(nums[i] == 1) o++;
-            else z++;
+	int longest = 0;
+	int prev = 0, curr = 0;
 
-            while( j < n && z > 1){
-                if(nums[j] == 1) o--;
-                else z--;
-                j++;
-            }
-            maxi = Math.max(maxi,o+z-1);
-        }
+	for (int bit : nums) {
+		if (bit == 0) {
+			prev = curr;
+			curr = 0;
+		} else {
+			longest = Math.max(longest, prev + ++curr);
+		}
+	}
 
-        return maxi;
-    }
+	return longest == nums.length ? longest - 1 : longest;
+}
 }
