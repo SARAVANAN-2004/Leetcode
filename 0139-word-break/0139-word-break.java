@@ -17,7 +17,7 @@ class Solution {
         for(int end = start+1;end <= s.length();end++){
             if(set.contains(s.substring(start,end))){ 
                 if(solve(s,end)){
-                    // memo.put(start,true);
+                    memo.put(start,true);
                     return true;
                 }
             }
