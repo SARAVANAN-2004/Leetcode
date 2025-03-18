@@ -62,6 +62,7 @@ A collection of LeetCode questions
 | [0334-increasing-triplet-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0472-concatenated-words](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0472-concatenated-words) |
 | [0480-sliding-window-median](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0480-sliding-window-median) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions
 | [0312-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
