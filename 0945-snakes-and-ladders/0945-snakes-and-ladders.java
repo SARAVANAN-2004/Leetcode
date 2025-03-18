@@ -40,8 +40,8 @@ class Solution {
                     place = map[curr];
                 }
                 if(place == end){
-                    min = Math.min(min,roll+1);
-                    continue;
+                    return roll+1;
+
                 }
                 
                 if(!vis[place]){
@@ -52,6 +52,6 @@ class Solution {
 
         }
 
-        return min == Integer.MAX_VALUE?-1:min;
+        return -1;
     }
 }
