@@ -5,19 +5,19 @@ class Solution {
         boolean[][] vis = new boolean[row][col];
         queue.add(new int[]{entrance[0],entrance[1],0});
         vis[entrance[0]][entrance[1]] = true;
-        
+        int[][] adj = new int[][]{
+                {-1,0},
+                {1,0},
+                {0,-1},
+                {0,1}
+            };
         while(!queue.isEmpty()){
             int[] cur = queue.poll();
             int r = cur[0];
             int c = cur[1];
             int step = cur[2];
            
-            int[][] adj = new int[][]{
-                {-1,0},
-                {1,0},
-                {0,-1},
-                {0,1}
-            };
+            
             for(int i = 0;i<4;i++){
                 int curR = r + adj[i][0];
                 int curC = c + adj[i][1];
