@@ -22,7 +22,7 @@ class Solution {
         };
         while(!queue.isEmpty() && fresh != 0){
             int size = queue.size();
-            
+            System.out.println(size);
             for(int i = 0;i<size;i++){
                 int[] cur = queue.poll();
                 int r = cur[0];
