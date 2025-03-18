@@ -25,13 +25,10 @@ class Solution {
                 str.append(map.get(10 * place));
                 str.append(map.get(place));
             }else{
-                while(!map.containsKey(place * n)){
+                for(int i = 0;i<n%5;i++){
                     str.append(map.get(place));
-                    n--;
                 }
-                if(n != 0){
-                    str.append(map.get(place * n));
-                }
+                if(n - (n%5) != 0) str.append(map.get((n - n%5) * place));
             }
 
             place *= 10;
