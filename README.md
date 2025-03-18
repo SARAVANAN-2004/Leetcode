@@ -301,6 +301,7 @@ A collection of LeetCode questions
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1502-construct-k-palindrome-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions
 | [1256-rank-transform-of-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1503-reducing-dishes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1503-reducing-dishes) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
