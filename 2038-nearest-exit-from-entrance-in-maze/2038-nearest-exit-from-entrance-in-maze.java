@@ -5,9 +5,7 @@ class Solution {
         boolean[][] vis = new boolean[row][col];
         queue.add(new int[]{entrance[0],entrance[1],0});
         vis[entrance[0]][entrance[1]] = true;
-        // for(char[] r:maze){
-        //     System.out.println(r);
-        // }
+        
         while(!queue.isEmpty()){
             int r = queue.peek()[0];
             int c = queue.peek()[1];
@@ -23,7 +21,6 @@ class Solution {
                 int curR = r + adj[i][0];
                 int curC = c + adj[i][1];
                 if(valid(curR,curC,row,col,maze) && !vis[curR][curC]){
-                    // System.out.println(curR+" "+curC);
                     if(curR == 0 || curC == 0 || curR == row-1 || curC == col-1) return step+1;
                     vis[curR][curC] = true;
                     queue.add(new int[]{curR,curC,step+1});
