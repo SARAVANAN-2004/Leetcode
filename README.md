@@ -832,6 +832,7 @@ A collection of LeetCode questions
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
@@ -889,6 +890,7 @@ A collection of LeetCode questions
 | ------- |
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0969-number-of-recent-calls](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [2868-continuous-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
@@ -950,6 +952,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0969-number-of-recent-calls](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Binary Indexed Tree
 |  |
 | ------- |
