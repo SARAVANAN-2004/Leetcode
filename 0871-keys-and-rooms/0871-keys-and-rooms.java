@@ -1,22 +1,23 @@
 class Solution {
+    boolean[] vis;
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
-        Set<Integer> set = new HashSet<>();
         int n = rooms.size();
-        for(int i = 0;i<n;i++){
-            set.add(i);
+        vis = new boolean[n];
+       
+        dfs(rooms,0);
+        for(boolean v:vis){
+            if(!v) return false;
         }
-
-        Queue<Integer> queu = new LinkedList<>();
-        queu.add(0);
-        while(!queu.isEmpty() && !set.isEmpty()){
-            int i = queu.poll();
-            set.remove(i);
-            for(int j :rooms.get(i)){
-                if(set.contains(j)){
-                    queu.add(j);
-                }
+        return true;
+    }
+    void dfs(List<List<Integer>> rooms,int i){
+        
+        vis[i] = true;
+        for(int j :rooms.get(i)){
+            if(!vis[j]){
+                dfs(rooms,j);
             }
         }
-        return set.isEmpty();
     }
+
 }
