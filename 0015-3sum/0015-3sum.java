@@ -5,6 +5,7 @@ class Solution {
         Set<String> set = new HashSet<>();
         int n= nums.length;
         for(int k = 0;k<n-1;k++){
+            if(k > 0 && nums[k] == nums[k-1]) continue;
             int i = 0, j = n-1;
             int n1 = nums[k];
             while(i < j){
