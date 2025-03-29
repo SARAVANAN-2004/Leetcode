@@ -1,20 +1,34 @@
 class Solution {
-    public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> res = new ArrayList<>();
-        find(res,new ArrayList<Integer>(),nums);
-        return res;
+    List<List<Integer>> ans = new ArrayList<>();
+    void swap(int[] nums,int i,int j){
+        int t = nums[i];
+        nums[i] = nums[j];
+        nums[j] = t;
     }
-     private void find(List<List<Integer>> res,List<Integer> temp,int[] nums){
-        if (temp.size() == nums.length){
-            res.add(new ArrayList<>(temp));
+    public List<List<Integer>> permute(int[] nums) {
+        int n = nums.length;
+        int cur = 0;
+        for(int si = cur;si<n;si++){
+            swap(nums,cur,si);
+            solve(nums,n,cur+1);
+            swap(nums,cur,si);
+        }
+        return ans;
+    }
+
+    public void solve(int[] nums,int n,int cur){
+        if(cur == n){
+            List<Integer> temp = new ArrayList<>();
+            for(int i:nums){
+                temp.add(i);
+            }
+            ans.add(temp);
             return;
         }
-        for (int i = 0; i < nums.length; i++) {
-            if (!temp.contains(nums[i])){
-                temp.add(nums[i]);
-
-            find(res, temp, nums);
-            temp.remove(temp.size()-1);}
+        for(int si = cur;si<n;si++){
+            swap(nums,cur,si);
+            solve(nums,n,cur+1);
+            swap(nums,cur,si);
         }
-     }
+    }
 }
