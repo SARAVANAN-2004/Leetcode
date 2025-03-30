@@ -669,6 +669,7 @@ A collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0125-valid-palindrome) |
@@ -898,6 +899,7 @@ A collection of LeetCode questions
 | ------- |
 | [0002-add-two-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
