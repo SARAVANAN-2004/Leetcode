@@ -1,16 +1,25 @@
 class Solution {
     int count = 0;
 
-    public void dfs(int node, int parent, Map<Integer, List<List<Integer>>> adj) {
-        if (!adj.containsKey(node)) {
-            return;
-        }
-        for (List<Integer> nei : adj.get(node)) {
-            int neighbor = nei.get(0);
-            int sign = nei.get(1);
-            if (neighbor != parent) {
-                count += sign;
-                dfs(neighbor, node, adj);
+    public void bfs(int node, int n, Map<Integer, List<List<Integer>>> adj) {
+        Queue<Integer> q = new LinkedList<>();
+        boolean[] visit = new boolean[n];
+        q.offer(node);
+        visit[node] = true;
+
+        while (!q.isEmpty()) {
+            node = q.poll();
+            if (!adj.containsKey(node)) {
+                continue;
+            }
+            for (List<Integer> nei : adj.get(node)) {
+                int neighbor = nei.get(0);
+                int sign = nei.get(1);
+                if (!visit[neighbor]) {
+                    count += sign;
+                    visit[neighbor] = true;
+                    q.offer(neighbor);
+                }
             }
         }
     }
@@ -23,7 +32,7 @@ class Solution {
             adj.computeIfAbsent(connection[1], k -> new ArrayList<List<Integer>>()).add(
                     Arrays.asList(connection[0], 0));
         }
-        dfs(0, -1, adj);
+        bfs(0, n, adj);
         return count;
     }
 }
