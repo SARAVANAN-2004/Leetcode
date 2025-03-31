@@ -1,30 +1,29 @@
 class Solution {
-    int cnt = 0;
-    List<List<int[]>> adj;
-    boolean[] vis;
-    public int minReorder(int n, int[][] connections) {
-        adj = new ArrayList<>();
-        for(int i = 0;i<n;i++){
-            adj.add(new ArrayList<>());
-        }
-        vis = new boolean[n];
-        for(int i[]:connections){
-            adj.get(i[0]).add(new int[]{i[1],1});
-            adj.get(i[1]).add(new int[]{i[0],0});
-        }
-        
-        dfs(0);
-        return cnt;
-    }
-    void dfs(int cur){
-        
-        vis[cur] = true;
+    int count = 0;
 
-        for(int[] a:adj.get(cur)){
-            if(!vis[a[0]]){
-                cnt += a[1];
-                dfs(a[0]);
+    public void dfs(int node, int parent, Map<Integer, List<List<Integer>>> adj) {
+        if (!adj.containsKey(node)) {
+            return;
+        }
+        for (List<Integer> nei : adj.get(node)) {
+            int neighbor = nei.get(0);
+            int sign = nei.get(1);
+            if (neighbor != parent) {
+                count += sign;
+                dfs(neighbor, node, adj);
             }
         }
+    }
+
+    public int minReorder(int n, int[][] connections) {
+        Map<Integer, List<List<Integer>>> adj = new HashMap<>();
+        for (int[] connection : connections) {
+            adj.computeIfAbsent(connection[0], k -> new ArrayList<List<Integer>>()).add(
+                    Arrays.asList(connection[1], 1));
+            adj.computeIfAbsent(connection[1], k -> new ArrayList<List<Integer>>()).add(
+                    Arrays.asList(connection[0], 0));
+        }
+        dfs(0, -1, adj);
+        return count;
     }
 }
