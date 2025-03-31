@@ -11,7 +11,7 @@ class Solution {
                 count[citations[i]]++;
             }
         }
-        System.out.println(Arrays.toString(count));
+        // System.out.println(Arrays.toString(count));
         
         // Step 2: Calculate the h-index
         int totalPapers = 0;
