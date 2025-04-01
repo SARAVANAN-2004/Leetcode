@@ -529,6 +529,7 @@ A collection of LeetCode questions
 | [0055-jump-game](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0120-triangle) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions
 | [0012-integer-to-roman](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0202-happy-number) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
