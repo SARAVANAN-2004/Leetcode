@@ -332,6 +332,7 @@ A collection of LeetCode questions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2413-smallest-number-in-infinite-set](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2413-smallest-number-in-infinite-set](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Segment Tree
 |  |
 | ------- |
@@ -870,6 +872,7 @@ A collection of LeetCode questions
 | ------- |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
+| [2413-smallest-number-in-infinite-set](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2868-continuous-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Graph
 |  |
@@ -946,6 +949,7 @@ A collection of LeetCode questions
 | [2164-two-best-non-overlapping-events](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2413-smallest-number-in-infinite-set](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
