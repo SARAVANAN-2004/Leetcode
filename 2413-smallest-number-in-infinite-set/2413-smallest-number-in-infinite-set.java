@@ -1,22 +1,27 @@
 class SmallestInfiniteSet {
     PriorityQueue<Integer> que = new PriorityQueue<>();
     boolean[] vis = new boolean[1001];
-    
+    int cur = 1;
     public SmallestInfiniteSet() {
-        for(int i = 1;i<1001;i++){
-        que.add(i);
-    }
+        
     }
     public int popSmallest() {
-        int cur = que.poll();
-        vis[cur] = true;
-        return cur;
+        if(!vis[cur]) {
+            que.add(cur);
+            vis[cur] = true;
+        }
+        int min = que.poll();
+        if(min == cur){
+            cur++;
+        }
+        vis[min] = false;
+        return min;
     }
     
     public void addBack(int num) {
-        if(vis[num]){
+        if(num < cur && !vis[num]){
             que.add(num);
-            vis[num] = false;
+            vis[num] = true;
         }
     }
 }
