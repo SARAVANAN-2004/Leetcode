@@ -7,7 +7,7 @@ class SmallestInfiniteSet {
     }
     public int popSmallest() {
         if(!vis[cur]) {
-            que.add(cur);
+            que.offer(cur);
             vis[cur] = true;
         }
         int min = que.poll();
@@ -20,7 +20,7 @@ class SmallestInfiniteSet {
     
     public void addBack(int num) {
         if(num < cur && !vis[num]){
-            que.add(num);
+            que.offer(num);
             vis[num] = true;
         }
     }
