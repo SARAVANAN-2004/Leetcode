@@ -27,16 +27,18 @@ class Solution {
         double[] ans = new double[queries.size()];
         for(int i = 0;i<queries.size();i++){
             List<String> adj = queries.get(i);
+            if(!map.containsKey(adj.get(0)) || !map.containsKey(adj.get(1))){
+            ans[i] = -1;
+            }else{
             ans[i] = solve(adj.get(0),adj.get(1));
+            }
         }
 
         return ans;
     }
 
     double solve(String src,String des){
-        if(!map.containsKey(src) || !map.containsKey(des)){
-            return -1;
-        }
+        
 
         Queue<Pair> que = new LinkedList<>();
         Set<String> vis = new HashSet<>();
