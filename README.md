@@ -66,6 +66,7 @@ A collection of LeetCode questions
 | [0334-increasing-triplet-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0472-concatenated-words](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0472-concatenated-words) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0472-concatenated-words) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0547-number-of-provinces) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions
 | [0128-longest-consecutive-sequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0854-making-a-large-island](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0854-making-a-large-island) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions
 | [0214-shortest-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0242-valid-anagram) |
+| [0399-evaluate-division](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0472-concatenated-words) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -884,6 +889,7 @@ A collection of LeetCode questions
 | [0207-course-schedule](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0871-keys-and-rooms](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -975,6 +981,7 @@ A collection of LeetCode questions
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0399-evaluate-division) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
