@@ -7,6 +7,7 @@ class Solution {
             this.val = val;
         }
     }
+    Set<String> vis;
     Map<String,List<Pair>> map;
     public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
         map =  new HashMap<>();
@@ -30,30 +31,26 @@ class Solution {
             if(!map.containsKey(adj.get(0)) || !map.containsKey(adj.get(1))){
             ans[i] = -1;
             }else{
-            ans[i] = solve(adj.get(0),adj.get(1));
+            vis = new HashSet<>();
+            ans[i] = solve(adj.get(0),adj.get(1),1);
             }
         }
 
         return ans;
     }
 
-    double solve(String src,String des){
-        
-
-        Queue<Pair> que = new LinkedList<>();
-        Set<String> vis = new HashSet<>();
-        vis.add(src);
-        que.add(new Pair(src,1));
-        while(!que.isEmpty()){
-            Pair cur = que.poll();
-            if(cur.s.equals(des)) return cur.val;
-            for(Pair adj :map.get(cur.s)){
+    double solve(String cur,String des,double product){
+            if(cur.equals(des)){
+                return product;
+            }
+            for(Pair adj :map.get(cur)){
                 if(!vis.contains(adj.s)){
                     vis.add(adj.s);
-                    que.add(new Pair(adj.s,cur.val * adj.val));
+                    double val  = solve(adj.s,des,product * adj.val);
+                    if(val != -1) return val;
                 }
             }
-        }
+        
 
         return -1;
 
