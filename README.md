@@ -808,6 +808,7 @@ A collection of LeetCode questions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions
 | [0173-binary-search-tree-iterator](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
