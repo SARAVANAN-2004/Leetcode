@@ -23,7 +23,7 @@ class Solution {
         if(root == null) return;
 
         if(root.left == null && root.right == null){
-            System.out.println(num);
+            // System.out.println(num);
             sum += (num*10+root.val);
             return;
         }
