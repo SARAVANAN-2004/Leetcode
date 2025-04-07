@@ -22,9 +22,12 @@ class Solution {
     void solve(TreeNode root,int max){
         if(root == null) return;
 
-        if(root.val >= max) cnt++;
+        if(root.val >= max){
+            cnt++;
+            max = root.val;
+        }
 
-        solve(root.left,Math.max(root.val,max));
-        solve(root.right,Math.max(root.val,max));
+        solve(root.left,max);
+        solve(root.right,max);
     }
 }
