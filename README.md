@@ -209,6 +209,7 @@ A collection of LeetCode questions
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -914,6 +915,7 @@ A collection of LeetCode questions
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
