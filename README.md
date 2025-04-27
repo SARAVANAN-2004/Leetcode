@@ -176,6 +176,7 @@ A collection of LeetCode questions
 | [3429-special-array-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Depth-First Search
 |  |
 | ------- |
