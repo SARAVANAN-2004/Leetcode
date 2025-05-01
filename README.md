@@ -519,6 +519,7 @@ A collection of LeetCode questions
 | [0162-find-peak-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0278-first-bad-version) |
 | [1185-find-in-mountain-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1185-find-in-mountain-array) |
 ## Quickselect
 |  |
