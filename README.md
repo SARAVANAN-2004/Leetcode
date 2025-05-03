@@ -635,6 +635,7 @@ A collection of LeetCode questions
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Math
@@ -650,6 +651,7 @@ A collection of LeetCode questions
 | [0202-happy-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0292-nim-game](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0670-maximum-swap) |
@@ -972,6 +974,7 @@ A collection of LeetCode questions
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0292-nim-game) |
 | [1240-stone-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1240-stone-game-ii) |
 ## Heap (Priority Queue)
 |  |
