@@ -104,6 +104,7 @@ A collection of LeetCode questions
 | [1185-find-in-mountain-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1240-stone-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
