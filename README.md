@@ -175,6 +175,7 @@ A collection of LeetCode questions
 | [3188-find-champion-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3188-find-champion-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3427-special-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3427-special-array-ii) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions
 | [1240-stone-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2155-find-missing-observations) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [3321-type-of-triangle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
@@ -707,6 +709,7 @@ A collection of LeetCode questions
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Two Pointers
 |  |
