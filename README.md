@@ -80,6 +80,7 @@ A collection of LeetCode questions
 | [0560-subarray-sum-equals-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
