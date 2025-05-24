@@ -22,9 +22,8 @@ class Solution {
             // System.out.println(cur);
             extra--;
             arr[i] = ptr;
-            int j = 1;
-            while(ptr != null && j < cur){
-                j++;
+           
+            for(int j = 0;j<cur-1 && ptr!= null;j++){
                 ptr = ptr.next;
             }
             if(ptr != null){
