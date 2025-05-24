@@ -982,6 +982,7 @@ A collection of LeetCode questions
 | [0142-linked-list-cycle-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0725-split-linked-list-in-parts](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2411-spiral-matrix-iv](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2411-spiral-matrix-iv) |
