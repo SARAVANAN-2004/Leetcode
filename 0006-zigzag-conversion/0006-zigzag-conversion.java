@@ -16,7 +16,7 @@ class Solution {
                 i+=2;
                 op = 1;
             }
-            // System.out.println(i+" ");
+            
             arr.get(i).add(ch);
         }
        StringBuilder sb = new StringBuilder();
