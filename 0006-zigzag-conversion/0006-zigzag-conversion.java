@@ -1,8 +1,8 @@
 class Solution {
     public String convert(String s, int row) {
-        List<List<Character>> arr = new ArrayList<>();
+        StringBuilder[] arr = new StringBuilder[row];
         for(int i = 0;i<row;i++){
-            arr.add(new ArrayList<>());
+            arr[i] = new StringBuilder();
         }
         int i = -1;
         int op = 1;
@@ -17,12 +17,12 @@ class Solution {
                 op = 1;
             }
             
-            arr.get(i).add(ch);
+            arr[i].append(ch);
         }
        StringBuilder sb = new StringBuilder();
-       for(List<Character> a:arr){
-        for(char ch:a) sb.append(ch);
-       }
+       for(i = 0;i<row;i++){
+            sb.append(arr[i]);
+        }
        return sb.toString();
     }
 }
