@@ -399,6 +399,7 @@ A collection of LeetCode questions
 | [0214-shortest-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0472-concatenated-words) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions
 | ------- |
 | [0002-add-two-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
