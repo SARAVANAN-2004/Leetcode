@@ -7,7 +7,7 @@ class Solution {
         }
         else if(m > k){
             cost = (long)(m - k)*k;
-           System.out.println(cost);
+        //    System.out.println(cost);
            return cost;
         }
         return 0;
