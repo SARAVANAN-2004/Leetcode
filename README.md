@@ -688,6 +688,7 @@ A collection of LeetCode questions
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3321-type-of-triangle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3879-find-minimum-log-transportation-cost](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Sorting
 |  |
 | ------- |
