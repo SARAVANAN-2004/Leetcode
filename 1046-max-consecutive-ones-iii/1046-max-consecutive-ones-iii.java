@@ -1,45 +1,20 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
-        int l = 0,r = 0;
+        int o = 0, z = 0, j = 0,n = nums.length;
         int maxi = 0;
-        int n = nums.length;
-        int cnt = 0;
-        while(r < n){
-            
-            while(r < n && (nums[r] == 1 || (nums[r] == 0 && k>0))){
-                    cnt++;
-                    if(nums[r] == 0){
-                        k--;
-                    }
-                    r++;
-                }
-                maxi = Math.max(maxi,cnt);
-                // System.out.println(" cnt "+cnt);
-           
-                if(l == r){
-                    while(r < n && nums[r] == 0){
-                        r++;
-                        l++;
-                    }
-                // System.out.println("equal "+cnt);
-
-                }else if(nums[l] == 1){
-                    cnt--;
-                    l++;
-                // System.out.println("1 "+cnt);
-
-                }else{
-                    if(nums[l] == 0){
-                        k++;
-                        l++;
-                        cnt--;
-                    //  System.out.println("0 "+k+" "+cnt);
-                    }
-                
-                // maxi = Math.max(maxi,cnt);
-                // System.out.println(cnt);
-
+        for(int i = 0;i<n;i++){
+            if(nums[i] == 1) o++;
+            else z++;
+            // System.out.println(i+" "+j+" "+o+" "+z+" "+maxi);
+            while(j <= i && z >k){
+                // System.out.println(i+" "+j);
+                if(nums[j] == 1) o--;
+                else z--;
+                j++;
             }
+            // System.out.println(i+" "+j+" "+o+" "+z+" "+maxi);
+            // System.out.println();
+            maxi = Math.max(maxi,o+z);
         }
         return maxi;
     }
