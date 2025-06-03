@@ -113,6 +113,7 @@ A collection of LeetCode questions
 | [1392-find-the-difference-of-two-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions
 | [0945-snakes-and-ladders](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0871-keys-and-rooms](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
