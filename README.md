@@ -458,6 +458,7 @@ A collection of LeetCode questions
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -772,6 +773,7 @@ A collection of LeetCode questions
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Monotonic Queue
 |  |
 | ------- |
