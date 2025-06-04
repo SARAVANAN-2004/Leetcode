@@ -337,6 +337,7 @@ A collection of LeetCode questions
 | [0146-lru-cache](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0242-valid-anagram) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions
 | [0139-word-break](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0242-valid-anagram) |
