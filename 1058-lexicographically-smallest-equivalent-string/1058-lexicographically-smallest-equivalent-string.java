@@ -13,11 +13,7 @@ class Solution {
             }else if((map[x] == 0 && map[y] != 0) || (map[y] == 0 && map[x] !=0)){
                 if(map[x] != 0){
                     map[y] = map[x];
-                    // System.out.println(map[x]-1);
-                    // System.out.println(Arrays.toString(map));
-                    // for(List<Character> a:adj){
-                    //     System.out.println(a);
-                    // }
+                    
                     adj.get(map[x]-1).add(ch2);
                 }else{
                     map[x] = map[y];
@@ -35,30 +31,21 @@ class Solution {
                     adj.get(map[y]-1).addAll(new ArrayList<>(adj.get(map[x]-1)));
                     int val = map[x];
                     solve(adj,map[x],map[y],map);
-                    // System.out.println(adj.get(map[y]-1));
-                    // System.out.println(adj.get(map[y]-1));
-                    
-                    // adj.remove(val-1);
+                   
                 }else{
                     adj.get(map[x]-1).addAll(new ArrayList<>(adj.get(map[y]-1)));
-                    // System.out.println("this");
                     int val = map[y];
                     solve(adj,map[y],map[x],map);
-                    // adj.remove(val-1);
                 }
             }
         }
-        // System.out.println(Arrays.toString(map));
-        // for(List<Character> a:adj){
-        //     System.out.println(a);
-        // }
+
         Map<Integer,Character> arr  = new HashMap<>();
         for(int i = 0;i<26;i++){
             if(map[i] != 0 && !arr.containsKey(map[i])){
                 arr.put(map[i],(char)(i+'a'));
             }
         }
-        // System.out.println(arr);
         StringBuilder sb = new StringBuilder();
         for(char ch:baseStr.toCharArray()){
             if(map[ch-'a'] == 0){
@@ -67,13 +54,10 @@ class Solution {
                 sb.append(arr.get(map[ch-'a']));
             }
         }
-        // return baseStr;
         return sb.toString();
     }
 
     void solve(List<List<Character>> adj,int st,int des,int[] map){
-        // int val = map[des];
-        // System.out.println("val "+des);
         for(char ch :adj.get(st-1)){
             map[ch-'a'] =des;
         }
