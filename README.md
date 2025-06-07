@@ -383,6 +383,7 @@ A collection of LeetCode questions
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -464,6 +465,7 @@ A collection of LeetCode questions
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Simulation
 |  |
 | ------- |
@@ -823,6 +826,7 @@ A collection of LeetCode questions
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Recursion
 |  |
 | ------- |
@@ -1068,6 +1072,7 @@ A collection of LeetCode questions
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
