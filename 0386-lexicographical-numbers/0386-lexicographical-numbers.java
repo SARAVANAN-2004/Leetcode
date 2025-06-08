@@ -1,22 +1,24 @@
 class Solution {
+    List<Integer> arr = new ArrayList<>();
+
     public List<Integer> lexicalOrder(int n) {
-        List<Integer> ans = new ArrayList<>();
-        for(int i = 1;i<=9;i++){
-            generate(ans,i,n);
-        }
-        return ans;
+        int num = 1;
+        solve(num,n);
+        return arr;
     }
-    void generate(List<Integer> ans,int curr,int limit){
-        if(curr > limit){
-            return;
-        }
-        ans.add(curr);
-        for(int i = 0;i<=9;i++){
-            int newCurr = (curr*10)+i;
-            if(newCurr <= limit){
-            generate(ans,newCurr,limit);
-            }else{
-                break;
+
+    void solve(int num,int n){
+        if(num  > n) return;
+        arr.add(num);
+        solve(num *10,n);
+        for(int i = 0;i<9;i++){
+            num++;
+            if(num > n){
+                return;
+            }
+            if(num %10 != 0){
+                arr.add(num);
+                solve(num*10,n);
             }
         }
     }
