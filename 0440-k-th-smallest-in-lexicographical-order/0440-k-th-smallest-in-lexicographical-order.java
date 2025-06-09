@@ -1,28 +1,30 @@
 class Solution {
     public int findKthNumber(int n, int k) {
-        int i = 1;
         int cur = 1;
-        while( i < k){
-            int steps = count(cur,n);
-            if(steps+i <= k){
+        int i = 1;
+        while(i < k){
+            int step = count(cur,n);
+
+            if(step +i <= k){
+                i+=step;
                 cur++;
-                i+=steps;
             }else{
-                i++;
                 cur *= 10;
+                i++;
             }
         }
         return cur;
     }
+
     int count(long cur,int n){
-        int steps = 0;
-        long neighbor = cur+1;
+        int  res = 0;
+        long nei = cur+1;
         while(cur <= n){
-            neighbor = Math.min((long)n+1,neighbor);
-            steps += neighbor -  cur;
+            nei = Math.min(nei,(long)n+1);
+            res += nei - cur;
             cur *= 10;
-            neighbor *= 10;
+            nei *= 10;
         }
-        return steps;
+        return res;
     }
 }
