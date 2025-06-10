@@ -73,6 +73,7 @@ A collection of LeetCode questions
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions
 | [0222-count-complete-tree-nodes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions
 | [0312-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0410-split-array-largest-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0472-concatenated-words) |
@@ -809,6 +813,7 @@ A collection of LeetCode questions
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0605-can-place-flowers) |
