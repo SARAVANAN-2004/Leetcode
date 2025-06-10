@@ -397,6 +397,7 @@ A collection of LeetCode questions
 | [0013-roman-to-integer](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0068-text-justification) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0053-maximum-subarray) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
