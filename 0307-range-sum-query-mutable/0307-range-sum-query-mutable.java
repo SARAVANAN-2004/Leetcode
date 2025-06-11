@@ -5,7 +5,7 @@ class NumArray {
     public NumArray(int[] nums) {
         
         n = nums.length;
-        si = new int[4*1000000];
+        si = new int[4*n];
         arr = Arrays.copyOf(nums,n);
         int sum = constructSegment(0,0,nums.length-1);
         // System.out.println(Arrays.toString(si));
