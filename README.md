@@ -475,6 +475,7 @@ A collection of LeetCode questions
 | [3455-minimum-length-of-string-after-operations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -552,6 +553,7 @@ A collection of LeetCode questions
 | [2508-maximum-sum-of-an-hourglass](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3427-special-array-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -965,6 +967,7 @@ A collection of LeetCode questions
 | [2868-continuous-subarrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Design
 |  |
 | ------- |
@@ -1097,6 +1100,7 @@ A collection of LeetCode questions
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
