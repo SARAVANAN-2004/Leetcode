@@ -353,6 +353,7 @@ A collection of LeetCode questions
 | [0560-subarray-sum-equals-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions
 | [0516-longest-palindromic-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0952-word-subsets) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions
 | [0295-find-median-from-data-stream](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1659-get-the-maximum-score](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1659-get-the-maximum-score) |
@@ -822,6 +825,7 @@ A collection of LeetCode questions
 | [0605-can-place-flowers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0768-partition-labels) |
 | [0770-couples-holding-hands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0876-hand-of-straights) |
