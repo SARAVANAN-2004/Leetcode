@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | [0064-minimum-path-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions
 | [0015-3sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions
 | [0031-next-permutation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0125-valid-palindrome) |
