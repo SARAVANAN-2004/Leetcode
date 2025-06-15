@@ -725,6 +725,7 @@ A collection of LeetCode questions
 | [0670-maximum-swap](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1240-stone-game-ii) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2155-find-missing-observations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2155-find-missing-observations) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -840,6 +841,7 @@ A collection of LeetCode questions
 | [1304-longest-happy-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1503-reducing-dishes) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1659-get-the-maximum-score](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
