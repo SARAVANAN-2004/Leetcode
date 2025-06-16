@@ -146,6 +146,7 @@ A collection of LeetCode questions
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2155-find-missing-observations) |
 | [2164-two-best-non-overlapping-events](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
