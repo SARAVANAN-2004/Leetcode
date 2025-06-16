@@ -429,6 +429,7 @@ A collection of LeetCode questions
 | [0516-longest-palindromic-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -836,6 +837,7 @@ A collection of LeetCode questions
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0649-dota2-senate](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0768-partition-labels) |
 | [0770-couples-holding-hands](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0770-couples-holding-hands) |
@@ -1073,6 +1075,7 @@ A collection of LeetCode questions
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0969-number-of-recent-calls) |
