@@ -188,6 +188,7 @@ A collection of LeetCode questions
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3188-find-champion-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3188-find-champion-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3321-type-of-triangle) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Recursion
