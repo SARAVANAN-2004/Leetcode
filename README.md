@@ -157,6 +157,7 @@ A collection of LeetCode questions
 | [2358-number-of-ways-to-split-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions
 | [1777-determine-if-two-strings-are-close](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
