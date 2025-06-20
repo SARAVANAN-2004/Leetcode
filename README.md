@@ -396,6 +396,7 @@ A collection of LeetCode questions
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -485,6 +486,7 @@ A collection of LeetCode questions
 | [3455-minimum-length-of-string-after-operations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bit Manipulation
 |  |
@@ -521,6 +523,7 @@ A collection of LeetCode questions
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Backtracking
 |  |
 | ------- |
@@ -739,6 +742,7 @@ A collection of LeetCode questions
 | [3321-type-of-triangle](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Sorting
 |  |
