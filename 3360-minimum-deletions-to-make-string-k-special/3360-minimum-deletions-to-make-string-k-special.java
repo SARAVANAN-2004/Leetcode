@@ -15,10 +15,12 @@ class Solution {
                 arr[i++] = map[j];
             }
         }
-        Arrays.sort(arr);
+      
         int min = Integer.MAX_VALUE;
         for(i = 0;i<cnt;i++){
+            
             int ch = arr[i];
+            if(ch == 0) continue;
             int cur = 0;
             for(int j = 0;j<cnt;j++){
                 if(i == j){
