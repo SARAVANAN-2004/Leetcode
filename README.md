@@ -741,6 +741,7 @@ A collection of LeetCode questions
 | [1240-stone-game-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1240-stone-game-ii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2155-find-missing-observations](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2155-find-missing-observations) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1141,6 +1142,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/SARAVANAN-2004/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
