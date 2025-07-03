@@ -11,7 +11,8 @@ class Solution {
             }
         }
         que.add(Integer.parseInt(s,2));
-        set.add(Integer.parseInt(s,2));
+        boolean[] vis = new boolean[(1 << (row * col))];
+        vis[Integer.parseInt(s,2)] = true;
         // System.out.println(set);
         int step = 0;
 
@@ -34,9 +35,10 @@ class Solution {
                         temp = temp ^ (1 << k);
                         
                     }
-                    if(!set.contains(temp)){
+                    if(!vis[temp]){
+                        // System.out.println(cur+" "+temp+" "+x+" "+Integer.toBinaryString(cur)+" "+Integer.toBinaryString(temp));
                         que.add(temp);
-                        set.add(temp);
+                        vis[temp] = true;
                     }
                 }
             }
