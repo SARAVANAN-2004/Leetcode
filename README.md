@@ -119,6 +119,7 @@ A collection of LeetCode questions
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions
 | [0895-shortest-path-to-get-all-keys](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1036-rotting-oranges) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions
 | [1036-rotting-oranges](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1559-cherry-pickup-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1972-rotating-the-box](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1972-rotating-the-box) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions
 | [0078-subsets](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SARAVANAN-2004/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
