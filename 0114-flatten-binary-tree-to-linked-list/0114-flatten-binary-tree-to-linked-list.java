@@ -17,7 +17,7 @@ class Solution {
     List<Integer> arr = new ArrayList<>();
     public void flatten(TreeNode root) {
         preorder(root);
-        System.out.println(arr);
+        
         if(root == null)return;
         
         for(int i = 1;i<arr.size();i++){
