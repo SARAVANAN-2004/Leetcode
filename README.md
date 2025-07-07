@@ -367,6 +367,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0480-sliding-window-median](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0399-evaluate-division) |
+| [0424-longest-repeating-character-replacement](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
