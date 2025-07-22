@@ -1,44 +1,41 @@
 class Solution {
+    int[][] dp;
+    int[][] adj = new int[][]{
+        {1,0},{-1,0},{0,1},{0,-1}
+    };
+    int row,col;
     public int longestIncreasingPath(int[][] matrix) {
-        int row = matrix.length;
-        int col = matrix[0].length;
-        int[][] dp = new int[row][col];
-        for(int[] rows:dp){
-            Arrays.fill(rows,-1);
-        }
-        int max = 0;
-        for(int r = 0;r < row;r++){
-            for(int c = 0;c <col;c++){
-                max = Math.max(max,dfs(matrix,dp,row,col,r,c,-1));
+        row = matrix.length ;
+        col = matrix[0].length;
+        dp = new int[row][col];
+        for(int[] i :dp) Arrays.fill(i,-1);
+        int maxi  = 1;
+        for(int r = 0;r<row;r++){
+            for(int c = 0;c<col;c++){
+                if(dp[r][c] == -1){
+                    dfs(r,c,matrix);
+                }
+                maxi = Math.max(maxi,dp[r][c]);
             }
+            // System.out.println(Arrays.toString(dp[r]));
         }
-        
-        // for(int r = 0;r < row;r++){
-        //     for(int c = 0;c <col;c++){
-        //         System.out.print(dp[r][c]+" ");
-                
-        //     }
-        //     System.out.println();
-        // }
-        return max;
+        return maxi;
     }
-    int  dfs(int[][] matrix,int [][] dp,int row,int col,int r,int c,int prev){
-        if(r < 0 || r >= row || c < 0 || c>= col){
-            return 0 ;
-        }
-        if(matrix[r][c] <= prev){
-            return 0;
-        }
+
+    public int  dfs(int r,int c,int[][] matrix){
         if(dp[r][c] != -1){
             return dp[r][c];
         }
-
-        int left = dfs(matrix,dp,row,col,r,c+1,matrix[r][c]);
-        int right = dfs(matrix,dp,row,col,r,c-1,matrix[r][c]);
-        int top = dfs(matrix,dp,row,col,r+1,c,matrix[r][c]);
-        int down = dfs(matrix,dp,row,col,r-1,c,matrix[r][c]);
-        dp[r][c] = Math.max(Math.max(left,right),Math.max(top,down)) + 1;
-        return dp[r][c];
-
+        int maxi = 0;
+        for(int i = 0;i<4;i++){
+            int ar = r + adj[i][0], ac = c + adj[i][1];
+            if(ar >= 0 && ar < row && ac >= 0 && ac < col && matrix[ar][ac] > matrix[r][c]){
+                maxi = Math.max(maxi,dfs(ar,ac,matrix));
+            }
+        }
+        maxi++;
+        // System.out.println(r+" "+c+" "+maxi);
+        return dp[r][c] = maxi;
+        
     }
 }
