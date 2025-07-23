@@ -366,6 +366,7 @@ A collection of LeetCode questions
 | [0219-contains-duplicate-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0432-all-oone-data-structure) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions
 | [0214-shortest-palindrome](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
