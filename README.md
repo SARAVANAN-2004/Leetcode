@@ -1126,6 +1126,7 @@ A collection of LeetCode questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SARAVANAN-2004/Leetcode/tree/master/0146-lru-cache) |
